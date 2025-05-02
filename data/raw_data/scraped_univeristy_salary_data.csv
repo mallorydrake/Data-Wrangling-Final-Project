@@ -1,0 +1,1504 @@
+Rank,School Name,School Type,Early Career Pay,Mid Career Pay,Percent of STEM Degrees
+1,Massachusetts Institute of Technology,"Engineering, Private School, Research University","$110,200 ","$196,900 ",66%
+2,Princeton University,"Engineering, Ivy League, Private School, Research University, For Sports Fans","$95,600 ","$194,100 ",53%
+3,United States Naval Academy,"Engineering, Liberal Arts School, Sober School, For Sports Fans, State School","$96,700 ","$187,800 ",54%
+4,Harvey Mudd College,"Engineering, Liberal Arts School, Private School","$115,000 ","$185,900 ",74%
+5,Babson College,"Business, Private School","$90,600 ","$181,400 ",3%
+6,Stanford University,"Private School, Research University, For Sports Fans","$102,300 ","$181,200 ",48%
+7,Santa Clara University,"Private School, Religious, For Sports Fans","$91,000 ","$179,500 ",23%
+8,Dartmouth College,"Ivy League, Private School, Research University, For Sports Fans","$92,300 ","$178,700 ",36%
+9,University of Pennsylvania,"Ivy League, Private School, Research University, For Sports Fans","$92,500 ","$178,300 ",27%
+10,Harvard University,"Ivy League, Private School, Research University, For Sports Fans","$95,600 ","$177,400 ",19%
+11,Colgate University,"Liberal Arts School, Party School, Private School, For Sports Fans","$87,400 ","$176,100 ",25%
+12,Lehigh University,"Private School, Research University, For Sports Fans","$89,100 ","$175,600 ",43%
+13,California Institute of Technology,"Engineering, Private School, Research University","$111,000 ","$175,400 ",98%
+14,Claremont McKenna College,"Liberal Arts School, Private School","$89,800 ","$175,000 ",19%
+15,United States Military Academy,"Liberal Arts School, Sober School, For Sports Fans, State School","$95,400 ","$174,100 ",35%
+16,Williams College,"Liberal Arts School, Private School","$85,800 ","$173,900 ",29%
+17,Stevens Institute of Technology,"Engineering, Private School, Research University","$92,800 ","$172,900 ",76%
+18,United States Air Force Academy,"Engineering, Liberal Arts School, Sober School, For Sports Fans, State School","$90,900 ","$172,800 ",54%
+19,Yale University,"Ivy League, Private School, Research University, For Sports Fans","$92,100 ","$171,900 ",28%
+20,University of California-Berkeley,"Research University, For Sports Fans, State School","$90,900 ","$170,100 ",44%
+21,SUNY Maritime College,State School,"$89,100 ","$169,400 ",32%
+21,Colorado School of Mines,"Engineering, Research University, State School","$89,900 ","$169,400 ",92%
+23,United States Merchant Marine Academy,"Engineering, State School","$103,300 ","$168,700 ",55%
+24,Georgetown University,"Private School, Religious, Research University, For Sports Fans","$84,300 ","$168,600 ",13%
+25,Webb Institute,"Engineering, Private School","$97,500 ","$168,500 ",100%
+26,Georgia Institute of Technology-Main Campus,"Engineering, Research University, For Sports Fans, State School","$92,900 ","$168,000 ",78%
+27,Carnegie Mellon University,"Engineering, Private School, Research University","$100,500 ","$167,400 ",68%
+28,Worcester Polytechnic Institute,"Engineering, Private School, Research University","$91,900 ","$166,200 ",84%
+29,Rose-Hulman Institute of Technology,"Engineering, Private School","$93,000 ","$165,800 ",98%
+30,University of Notre Dame,"Private School, Religious, Research University, For Sports Fans","$86,900 ","$165,500 ",32%
+31,Washington and Lee University,"Liberal Arts School, Private School","$80,300 ","$164,400 ",19%
+32,Duke University,"Private School, Religious, Research University, For Sports Fans","$90,500 ","$164,000 ",28%
+33,Rensselaer Polytechnic Institute,"Engineering, Private School, Research University","$89,700 ","$163,500 ",78%
+34,Swarthmore College,"Liberal Arts School, Private School","$82,600 ","$162,500 ",38%
+35,Lafayette College,"Liberal Arts School, Private School, Religious, For Sports Fans","$86,200 ","$162,000 ",47%
+36,California State University Maritime Academy,State School,"$85,800 ","$161,900 ",18%
+37,The Cooper Union for the Advancement of Science and Art,"Engineering, Private School","$88,100 ","$160,500 ",60%
+38,Brown University,"Ivy League, Private School, Research University, For Sports Fans","$88,000 ","$160,300 ",43%
+39,Columbia University in the City of New York,"Ivy League, Private School, Research University, For Sports Fans","$92,500 ","$159,700 ",30%
+40,Bucknell University,"Liberal Arts School, Party School, Private School, For Sports Fans","$85,200 ","$159,100 ",36%
+41,Brandeis University,"Private School, Research University","$75,200 ","$158,700 ",36%
+42,Cornell University,"Ivy League, Private School, Research University, For Sports Fans","$89,300 ","$158,600 ",44%
+43,Manhattan College,"Private School, Religious, For Sports Fans","$79,800 ","$156,100 ",39%
+44,University of California-San Diego,"Engineering, Research University, State School","$82,100 ","$156,000 ",51%
+45,Union College (New York),"Liberal Arts School, Party School, Private School","$81,700 ","$155,700 ",49%
+45,Samuel Merritt University,Private School,"$114,800 ","$155,700 ",0%
+47,Bowdoin College,"Liberal Arts School, Private School","$78,400 ","$155,100 ",38%
+48,University of Southern California,"Private School, Research University, For Sports Fans","$83,800 ","$154,800 ",21%
+49,Barnard College,"Liberal Arts School, Private School","$77,100 ","$153,900 ",22%
+49,University of Virginia-Main Campus,"Research University, For Sports Fans, State School","$82,300 ","$153,900 ",21%
+51,Wesleyan University,"Liberal Arts School, Private School","$80,800 ","$153,800 ",19%
+52,George Washington University,"Private School, Research University, For Sports Fans","$78,000 ","$153,400 ",16%
+53,California Polytechnic State University-San Luis Obispo,"For Sports Fans, State School","$83,200 ","$153,100 ",35%
+54,Yeshiva University,"Private School, Research University","$80,200 ","$152,400 ",8%
+55,University of California-Santa Barbara,"Party School, Research University, For Sports Fans, State School","$75,300 ","$152,300 ",33%
+55,Bates College,"Liberal Arts School, Private School","$73,300 ","$152,300 ",26%
+57,University of California-Irvine,"Research University, For Sports Fans, State School","$76,900 ","$152,200 ",38%
+58,Embry-Riddle Aeronautical University-Prescott,Private School,"$86,900 ","$152,100 ",40%
+59,Vanderbilt University,"Private School, Research University, For Sports Fans","$84,700 ","$151,500 ",24%
+60,New York University,"Private School, Research University","$80,500 ","$151,100 ",24%
+61,University of Chicago,"Private School, Research University","$84,700 ","$151,000 ",30%
+62,New Jersey Institute of Technology,"Engineering, Research University, For Sports Fans, State School","$81,400 ","$150,900 ",74%
+62,Clarkson University,"Engineering, Private School, Research University","$81,000 ","$150,900 ",55%
+62,Fairfield University,"Private School, Religious, For Sports Fans","$80,000 ","$150,900 ",13%
+65,Rice University,"Private School, Research University, For Sports Fans","$90,600 ","$150,600 ",40%
+66,Maine Maritime Academy,State School,"$82,400 ","$150,500 ",44%
+67,Loyola Marymount University,"Private School, Religious, For Sports Fans","$74,700 ","$150,200 ",11%
+68,Boston University,"Private School, Research University, For Sports Fans","$79,100 ","$150,100 ",27%
+69,Gettysburg College,"Liberal Arts School, Private School","$74,900 ","$149,900 ",27%
+70,Wabash College,"Liberal Arts School, Private School","$77,400 ","$149,700 ",27%
+71,Wake Forest University,"Party School, Private School, Research University, For Sports Fans","$76,400 ","$149,600 ",16%
+72,Virginia Military Institute,"Liberal Arts School, For Sports Fans, State School","$80,200 ","$149,500 ",49%
+73,The King's University,"Private School, Religious","$73,500 ","$149,400 ",0%
+74,University of California-Los Angeles,"Research University, For Sports Fans, State School","$78,600 ","$149,200 ",34%
+75,Bentley University,"Business, Private School","$86,100 ","$149,100 ",9%
+76,Saint Mary's College of California,"Private School, Religious, For Sports Fans","$74,200 ","$148,100 ",7%
+76,Kettering University,"Engineering, Private School","$88,800 ","$148,100 ",74%
+78,University of California-Davis,"Research University, For Sports Fans, State School","$79,000 ","$147,900 ",36%
+79,Davidson College,"Liberal Arts School, Private School, Religious, For Sports Fans","$73,000 ","$147,800 ",29%
+80,Case Western Reserve University,"Private School, Research University","$84,500 ","$147,600 ",38%
+81,United States Coast Guard Academy,"Engineering, State School","$93,400 ","$147,400 ",67%
+82,Franklin and Marshall College,"Liberal Arts School, Private School","$73,000 ","$147,200 ",25%
+82,Tufts University,"Private School, Research University","$83,700 ","$147,200 ",28%
+84,Boston College,"Private School, Religious, Research University, For Sports Fans","$82,000 ","$147,000 ",17%
+85,Trinity College,"Liberal Arts School, Private School","$77,000 ","$146,900 ",22%
+86,Washington University in St Louis,"Private School, Research University","$83,200 ","$146,800 ",32%
+87,MCPHS University,Private School,"$77,700 ","$146,500 ",1%
+88,Haverford College,"Liberal Arts School, Private School","$76,600 ","$146,400 ",41%
+89,Illinois Institute of Technology,"Engineering, Private School, Research University","$82,200 ","$146,300 ",58%
+90,Johns Hopkins University,"Private School, Research University","$86,700 ","$146,200 ",35%
+91,Carleton College,"Liberal Arts School, Private School","$75,200 ","$146,100 ",48%
+92,University of Rochester,"Private School, Research University","$79,800 ","$145,600 ",29%
+92,Missouri University of Science and Technology,"Engineering, Research University, State School","$83,900 ","$145,600 ",78%
+94,Middlebury College,"Liberal Arts School, Private School","$77,800 ","$145,400 ",23%
+95,Albany College of Pharmacy and Health Sciences,Private School,"$81,200 ","$145,000 ",7%
+96,Northwestern University,"Private School, Research University, For Sports Fans","$81,300 ","$144,700 ",20%
+97,Villanova University,"Private School, Religious, Research University, For Sports Fans","$84,700 ","$144,600 ",23%
+97,Loyola University Maryland,"Private School, Religious, For Sports Fans","$75,100 ","$144,600 ",10%
+99,New Mexico Institute of Mining and Technology,"Engineering, State School","$82,300 ","$144,400 ",92%
+100,University of Illinois Urbana-Champaign,"Research University, For Sports Fans, State School","$80,200 ","$144,200 ",37%
+101,Denison University,"Liberal Arts School, Private School","$67,100 ","$144,100 ",18%
+102,Amherst College,"Liberal Arts School, Private School","$79,000 ","$143,900 ",39%
+102,College of the Holy Cross,"Liberal Arts School, Private School, Religious, For Sports Fans","$75,800 ","$143,900 ",21%
+104,Seattle University,"Private School, Religious, For Sports Fans","$78,300 ","$143,800 ",18%
+104,Pomona College,"Liberal Arts School, Private School","$85,500 ","$143,800 ",39%
+106,University of San Diego,"Private School, Religious, Research University, For Sports Fans","$75,700 ","$143,700 ",16%
+107,Fordham University,"Private School, Religious, Research University, For Sports Fans","$75,700 ","$143,600 ",9%
+108,Texas A & M University-College Station,"Research University, For Sports Fans, State School","$74,600 ","$143,500 ",32%
+109,Emory University,"Private School, Religious, Research University","$80,900 ","$143,300 ",24%
+110,Southern Methodist University,"Private School, Religious, Research University, For Sports Fans","$76,400 ","$142,300 ",22%
+111,University of Michigan-Ann Arbor,"Research University, For Sports Fans, State School","$83,100 ","$142,100 ",41%
+112,Providence College,"Private School, Religious, For Sports Fans","$74,100 ","$141,900 ",12%
+113,Occidental College,"Liberal Arts School, Private School","$71,800 ","$141,700 ",24%
+114,San Jose State University,"For Sports Fans, State School","$82,200 ","$141,400 ",22%
+115,Rutgers University-New Brunswick,"Research University, For Sports Fans, State School","$75,900 ","$141,200 ",31%
+115,Binghamton University,"Research University, For Sports Fans, State School","$75,700 ","$141,200 ",38%
+117,The University of Texas at Austin,"Research University, For Sports Fans, State School","$77,400 ","$141,100 ",30%
+118,Wittenberg University,"Liberal Arts School, Private School, Religious","$62,800 ","$140,900 ",15%
+119,Reed College,"Liberal Arts School, Private School","$72,400 ","$140,800 ",27%
+120,University of Colorado Boulder,"Research University, For Sports Fans, State School","$74,200 ","$140,700 ",39%
+121,Polytechnic University of Puerto Rico-Miami,"Business, Private School","$79,000 ","$140,200 ",21%
+122,University of Washington-Seattle Campus,"Research University, For Sports Fans, State School","$80,100 ","$139,900 ",38%
+122,Milwaukee School of Engineering,"Engineering, Private School","$84,300 ","$139,900 ",70%
+124,University of Maryland-College Park,"Research University, For Sports Fans, State School","$79,100 ","$139,700 ",39%
+125,Virginia Polytechnic Institute and State University,"Research University, For Sports Fans, State School","$80,400 ","$139,600 ",39%
+126,University of St Thomas (Minnesota),"Private School, Religious, Research University","$72,600 ","$139,500 ",24%
+127,Michigan Technological University,"Engineering, Research University, State School","$82,400 ","$139,300 ",79%
+128,Hampden-Sydney College,"Liberal Arts School, Private School","$73,800 ","$139,100 ",22%
+129,Capitol Technology University,"Engineering, Private School","$91,000 ","$139,000 ",78%
+130,Wellesley College,"Liberal Arts School, Private School","$79,700 ","$138,800 ",37%
+131,Whitman College,"Liberal Arts School, Private School","$71,100 ","$138,500 ",33%
+131,Ursinus College,"Liberal Arts School, Private School","$67,900 ","$138,500 ",45%
+133,University of Puget Sound,"Liberal Arts School, Private School","$70,000 ","$138,200 ",19%
+134,Menlo College,"Business, Private School","$78,800 ","$138,100 ",0%
+134,Wentworth Institute of Technology,"Engineering, Private School","$80,800 ","$138,100 ",51%
+136,University of San Francisco,"Private School, Religious, Research University, For Sports Fans","$76,200 ","$138,000 ",13%
+137,Westmont College,"Liberal Arts School, Private School, Religious","$68,600 ","$137,900 ",21%
+138,Brigham Young University,"Private School, Religious, Research University, Sober School, For Sports Fans","$74,100 ","$137,800 ",30%
+139,Hofstra University,"Private School, Research University, For Sports Fans","$70,200 ","$137,700 ",10%
+139,Pace University,"Private School, Research University","$72,800 ","$137,700 ",11%
+141,Tulane University of Louisiana,"Party School, Private School, Research University, For Sports Fans","$72,200 ","$137,600 ",21%
+142,California State Polytechnic University-Pomona,State School,"$73,700 ","$137,200 ",29%
+142,University of Denver,"Private School, Research University, For Sports Fans","$71,800 ","$137,200 ",13%
+142,Lawrence Technological University,"Engineering, Private School","$70,900 ","$137,200 ",51%
+145,CUNY Bernard M Baruch College,"Business, Sober School, State School","$73,800 ","$136,700 ",13%
+145,Gonzaga University,"Private School, Religious, For Sports Fans","$75,900 ","$136,700 ",18%
+147,Miami University-Oxford,"Research University, For Sports Fans, State School","$71,400 ","$136,600 ",22%
+147,University of Washington-Bothell Campus,State School,"$78,800 ","$136,600 ",35%
+149,Kenyon College,"Liberal Arts School, Private School","$68,700 ","$136,300 ",17%
+149,William & Mary,"Research University, For Sports Fans, State School","$75,000 ","$136,300 ",22%
+151,Massachusetts Maritime Academy,State School,"$83,500 ","$136,200 ",34%
+152,Drexel University,"Private School, Research University, For Sports Fans","$78,700 ","$136,100 ",29%
+153,Citadel Military College of South Carolina,"For Sports Fans, State School","$74,200 ","$136,000 ",21%
+153,California Institute of Integral Studies,"Private School, Research University","$75,000 ","$136,000 ",0%
+155,Susquehanna University,"Liberal Arts School, Private School, Religious","$64,800 ","$135,700 ",24%
+155,California College of the Arts,"Art, Private School","$80,600 ","$135,700 ",8%
+155,Saint Johns University,"Liberal Arts School, Private School, Religious","$74,400 ","$135,700 ",19%
+158,Clark University,"Private School, Research University","$67,300 ","$135,500 ",22%
+159,California State University-Chico,State School,"$71,600 ","$135,300 ",14%
+160,University of California-Santa Cruz,"Research University, State School","$75,600 ","$134,900 ",45%
+161,American University,"Private School, Religious, Research University, For Sports Fans","$70,700 ","$134,800 ",4%
+161,University of the Pacific,"Private School, Research University, For Sports Fans","$75,900 ","$134,800 ",20%
+163,Syracuse University,"Party School, Private School, Research University, For Sports Fans","$74,400 ","$134,600 ",24%
+163,The Catholic University of America,"Private School, Religious, Research University","$72,500 ","$134,600 ",13%
+163,Northeastern University,"Engineering, Private School, Research University, For Sports Fans","$81,800 ","$134,600 ",54%
+166,The New School,"Private School, Research University","$70,400 ","$134,500 ",10%
+166,University of Puerto Rico-Mayaguez,"Engineering, State School","$81,100 ","$134,500 ",54%
+168,Juniata College,"Liberal Arts School, Private School","$63,500 ","$134,400 ",35%
+169,St Lawrence University,"Liberal Arts School, Party School, Private School","$71,700 ","$134,000 ",24%
+169,South Dakota School of Mines and Technology,"Engineering, State School","$82,100 ","$134,000 ",93%
+171,Wagner College,"Private School, Religious, For Sports Fans","$71,600 ","$133,900 ",8%
+172,Art Center College of Design,"Art, Private School","$80,600 ","$133,800 ",8%
+173,Stony Brook University,"Research University, For Sports Fans, State School","$74,900 ","$133,700 ",34%
+173,Golden Gate University,"Business, Private School","$69,900 ","$133,700 ",3%
+175,Rhodes College,"Liberal Arts School, Private School, Religious","$64,100 ","$133,600 ",33%
+175,Embry-Riddle Aeronautical University-Daytona Beach,Private School,"$82,200 ","$133,600 ",41%
+177,University of Richmond,"Liberal Arts School, Private School, For Sports Fans","$75,000 ","$133,400 ",13%
+177,Bryant University,"Business, Private School, For Sports Fans","$76,800 ","$133,400 ",4%
+179,Southern California Institute of Architecture,Private School,"$69,400 ","$132,900 ",0%
+180,University of Portland,"Private School, Religious, For Sports Fans","$75,700 ","$132,800 ",23%
+181,Ithaca College,Private School,"$66,500 ","$132,700 ",9%
+182,North Carolina State University at Raleigh,"Research University, For Sports Fans, State School","$73,200 ","$132,600 ",41%
+182,Hobart William Smith Colleges,"Liberal Arts School, Private School","$69,100 ","$132,600 ",16%
+182,University of Massachusetts-Lowell,"Research University, For Sports Fans, State School","$74,900 ","$132,600 ",34%
+185,University of Delaware,"Party School, Research University, For Sports Fans, State School","$74,100 ","$132,300 ",24%
+186,University of California-Riverside,"Research University, For Sports Fans, State School","$70,900 ","$132,200 ",36%
+187,Trinity University,"Private School, Religious","$67,400 ","$132,000 ",25%
+188,Wheaton College,"Liberal Arts School, Private School, Religious, Sober School","$68,300 ","$131,900 ",13%
+189,Lawrence University,"Liberal Arts School, Private School","$62,200 ","$131,800 ",25%
+190,University of Alabama in Huntsville,"Research University, State School","$73,000 ","$131,700 ",47%
+190,Kalamazoo College,"Liberal Arts School, Private School","$65,200 ","$131,700 ",42%
+192,George Mason University,"Research University, For Sports Fans, State School","$74,800 ","$131,400 ",23%
+192,St Olaf College,"Liberal Arts School, Private School, Religious","$69,500 ","$131,400 ",25%
+194,Connecticut College,"Liberal Arts School, Private School","$75,200 ","$131,200 ",31%
+195,Rochester Institute of Technology,"Engineering, Private School, Research University","$80,300 ","$131,100 ",54%
+196,Fashion Institute of Technology,State School,"$67,900 ","$130,900 ",0%
+197,Marquette University,"Private School, Religious, Research University, For Sports Fans","$74,000 ","$130,800 ",24%
+198,Pratt Institute-Main,"Art, Private School","$67,000 ","$130,600 ",10%
+199,DePaul University,"Private School, Religious, Research University, For Sports Fans","$70,200 ","$130,500 ",16%
+200,St. John's University-New York,"Private School, Religious, Research University, For Sports Fans","$68,300 ","$130,400 ",11%
+201,Walla Walla University,"Private School, Religious","$66,700 ","$130,100 ",18%
+202,Marist College,"Private School, For Sports Fans","$71,800 ","$129,900 ",13%
+202,Whittier College,"Liberal Arts School, Private School","$66,300 ","$129,900 ",14%
+202,Colby College,"Liberal Arts School, Private School","$76,600 ","$129,900 ",30%
+205,Purdue University-Main Campus,"Research University, For Sports Fans, State School","$77,600 ","$129,800 ",44%
+206,Ohio Northern University,"Private School, Religious","$72,400 ","$129,700 ",27%
+206,University of Dayton,"Party School, Private School, Religious, Research University, For Sports Fans","$72,800 ","$129,700 ",32%
+206,University of Wisconsin-Madison,"Party School, Research University, For Sports Fans, State School","$74,900 ","$129,700 ",30%
+206,St. John's College (Maryland),"Liberal Arts School, Private School","$66,300 ","$129,700 ",0%
+210,Baylor University,"Private School, Religious, Research University, Sober School, For Sports Fans","$69,500 ","$129,500 ",14%
+210,University of Connecticut,"Party School, Research University, For Sports Fans, State School","$76,300 ","$129,500 ",25%
+210,Stonehill College,"Liberal Arts School, Private School, Religious","$70,500 ","$129,500 ",16%
+213,University of Utah,"Research University, For Sports Fans, State School","$70,500 ","$129,400 ",26%
+213,Wofford College,"Liberal Arts School, Private School, Religious, For Sports Fans","$66,700 ","$129,400 ",30%
+213,University of Minnesota-Twin Cities,"Research University, For Sports Fans, State School","$73,400 ","$129,400 ",30%
+216,Willamette University,"Liberal Arts School, Private School","$64,700 ","$129,200 ",11%
+217,James Madison University,"For Sports Fans, State School","$72,200 ","$129,100 ",13%
+218,Clemson University,"Research University, For Sports Fans, State School","$72,700 ","$128,900 ",34%
+218,Texas Tech University,"Research University, For Sports Fans, State School","$70,400 ","$128,900 ",22%
+220,SUNY at Albany,"Research University, For Sports Fans, State School","$67,100 ","$128,800 ",21%
+220,University of Redlands,Private School,"$69,600 ","$128,800 ",6%
+222,Seattle Pacific University,"Private School, Religious, Research University","$69,100 ","$128,700 ",12%
+223,Washington State University,"Research University, For Sports Fans, State School","$71,600 ","$128,500 ",21%
+224,Hamilton College,"Liberal Arts School, Private School","$76,300 ","$128,300 ",29%
+224,University of Georgia,"Research University, For Sports Fans, State School","$70,700 ","$128,300 ",17%
+226,Oregon State University,"Research University, For Sports Fans, State School","$72,700 ","$128,200 ",38%
+227,California Lutheran University,"Private School, Religious","$64,200 ","$127,900 ",13%
+228,University of Tulsa,"Private School, Religious, Research University, For Sports Fans","$74,500 ","$127,800 ",36%
+229,San Diego State University,"Research University, For Sports Fans, State School","$71,400 ","$127,700 ",18%
+230,Saint Joseph's University,"Private School, Religious, For Sports Fans","$71,800 ","$127,600 ",10%
+231,Rutgers University-Newark,"Business, Research University, State School","$72,500 ","$127,500 ",13%
+231,Western Washington University,State School,"$70,600 ","$127,500 ",17%
+231,University of Florida,"Research University, For Sports Fans, State School","$70,400 ","$127,500 ",29%
+234,Vassar College,"Liberal Arts School, Private School","$68,500 ","$127,300 ",29%
+234,University of Houston,"Research University, For Sports Fans, State School","$70,600 ","$127,300 ",24%
+234,University of Dallas,"Private School, Religious","$67,700 ","$127,300 ",22%
+234,Bradley University,"Private School, For Sports Fans","$69,500 ","$127,300 ",23%
+238,University of Hartford,"Private School, Research University, For Sports Fans","$69,100 ","$127,000 ",13%
+239,Rhode Island School of Design,Private School,"$74,700 ","$126,800 ",9%
+239,Loyola University Chicago,"Private School, Religious, Research University, For Sports Fans","$68,800 ","$126,800 ",14%
+241,Skidmore College,"Liberal Arts School, Private School","$68,600 ","$126,700 ",22%
+241,Morehouse College,"Liberal Arts School, Private School","$71,800 ","$126,700 ",27%
+241,Augustana College,"Liberal Arts School, Private School, Religious","$60,700 ","$126,700 ",25%
+244,The College of New Jersey,State School,"$76,200 ","$126,400 ",19%
+244,Florida Institute of Technology,"Private School, Research University","$74,500 ","$126,400 ",38%
+244,Colorado College,"Liberal Arts School, Private School","$67,500 ","$126,400 ",29%
+244,Pepperdine University,"Private School, Religious, Research University, For Sports Fans","$75,100 ","$126,400 ",4%
+248,Albion College,"Liberal Arts School, Private School","$63,000 ","$126,300 ",19%
+249,University of Massachusetts-Amherst,"Research University, For Sports Fans, State School","$73,700 ","$126,200 ",28%
+250,Seton Hall University,"Private School, Religious, Research University, For Sports Fans","$72,800 ","$126,100 ",11%
+250,Auburn University,"Research University, For Sports Fans, State School","$69,700 ","$126,100 ",31%
+252,University of Illinois Chicago,"Research University, For Sports Fans, State School","$72,200 ","$125,900 ",28%
+253,Lake Forest College,"Liberal Arts School, Private School","$69,300 ","$125,700 ",23%
+253,Pitzer College,"Liberal Arts School, Private School","$69,700 ","$125,700 ",18%
+255,The University of the South,"Liberal Arts School, Party School, Private School, Religious","$67,700 ","$125,600 ",23%
+256,Montana Technological University,"Engineering, State School","$74,800 ","$125,500 ",57%
+257,University of Pittsburgh-Pittsburgh Campus,"Research University, For Sports Fans, State School","$74,500 ","$125,100 ",29%
+258,Ohio Wesleyan University,"Liberal Arts School, Private School, Religious","$60,900 ","$125,000 ",25%
+258,California State University-Long Beach,"For Sports Fans, State School","$67,300 ","$125,000 ",17%
+258,University of Maryland-Baltimore County,"Research University, For Sports Fans, State School","$74,500 ","$125,000 ",47%
+261,SUNY Downstate Health Sciences University,State School,"$83,100 ","$124,900 ",1%
+261,Butler University,"Private School, For Sports Fans","$64,000 ","$124,900 ",9%
+261,Spring Hill College,"Liberal Arts School, Private School, Religious","$58,700 ","$124,900 ",9%
+264,La Salle University,"Private School, Religious, For Sports Fans","$67,200 ","$124,800 ",6%
+265,The College of Wooster,"Liberal Arts School, Private School","$60,600 ","$124,600 ",37%
+265,California State University-East Bay,State School,"$74,000 ","$124,600 ",13%
+267,Iona University,"Private School, Religious, For Sports Fans","$69,500 ","$124,500 ",6%
+267,Texas A & M University-Kingsville,"Research University, State School","$64,600 ","$124,500 ",33%
+267,Illinois Wesleyan University,"Liberal Arts School, Private School","$70,300 ","$124,500 ",17%
+270,Fairleigh Dickinson University-Florham Campus,"Private School, For Sports Fans","$67,100 ","$124,400 ",11%
+270,Fairleigh Dickinson University-Florham Campus,"Private School, For Sports Fans","$67,100 ","$124,400 ",11%
+270,DePauw University,"Liberal Arts School, Private School","$72,600 ","$124,400 ",26%
+273,North Central College,"Private School, Religious","$61,900 ","$124,200 ",13%
+274,Siena College,"Liberal Arts School, Private School, Religious, For Sports Fans","$69,400 ","$124,100 ",18%
+274,West Virginia University Institute of Technology,State School,"$68,300 ","$124,100 ",44%
+274,University of Miami,"Private School, Research University, For Sports Fans","$72,800 ","$124,100 ",22%
+274,Drake University,"Private School, For Sports Fans","$66,000 ","$124,100 ",6%
+278,University of Arizona,"Research University, For Sports Fans, State School","$70,400 ","$123,800 ",24%
+279,Furman University,"Liberal Arts School, Private School, For Sports Fans","$65,200 ","$123,700 ",20%
+280,University of Oregon,"Research University, For Sports Fans, State School","$65,700 ","$123,600 ",14%
+280,Universidad Ana G. Mendez-Cupey Campus,Private School,"$58,100 ","$123,600 ",5%
+282,University of Rhode Island,"Party School, Research University, For Sports Fans, State School","$69,400 ","$123,500 ",20%
+282,Sonoma State University,State School,"$68,100 ","$123,500 ",12%
+282,Grinnell College,"Liberal Arts School, Private School","$70,500 ","$123,500 ",45%
+282,Hampshire College,"Liberal Arts School, Private School","$58,500 ","$123,500 ",13%
+286,Oregon Health & Science University,State School,"$85,700 ","$123,400 ",8%
+286,Oregon Institute of Technology,State School,"$78,500 ","$123,400 ",30%
+286,Taylor University,"Private School, Religious","$62,600 ","$123,400 ",22%
+286,Boston Architectural College,Private School,"$63,500 ","$123,400 ",0%
+290,Muhlenberg College,"Liberal Arts School, Private School, Religious","$67,500 ","$123,300 ",20%
+291,Howard University,"Private School, Research University, For Sports Fans","$70,600 ","$123,200 ",14%
+291,California State University-Fresno,"Research University, For Sports Fans, State School","$64,900 ","$123,200 ",11%
+291,Louisiana State University and Agricultural & Mechanical College,"Research University, For Sports Fans, State School","$67,900 ","$123,200 ",20%
+294,University of Vermont,"Research University, For Sports Fans, State School","$68,000 ","$123,100 ",25%
+294,Texas Christian University,"Private School, Religious, Research University, For Sports Fans","$70,800 ","$123,100 ",10%
+296,Smith College,"Liberal Arts School, Private School","$67,500 ","$123,000 ",29%
+296,University of Iowa,"Research University, For Sports Fans, State School","$68,600 ","$123,000 ",14%
+298,Grove City College,"Liberal Arts School, Private School, Religious, Sober School","$70,000 ","$122,900 ",31%
+298,Sacred Heart University,"Private School, Religious, For Sports Fans","$70,000 ","$122,900 ",12%
+300,The Juilliard School,"Art, Private School","$64,100 ","$122,800 ",0%
+301,Pacific University,Private School,"$60,800 ","$122,700 ",7%
+301,Long Island University,Private School,"$64,600 ","$122,700 ",5%
+301,Washington & Jefferson College,"Liberal Arts School, Private School","$62,900 ","$122,700 ",25%
+301,Mount Saint Mary's University,"Private School, Religious","$73,300 ","$122,700 ",2%
+305,Drew University,"Liberal Arts School, Private School, Religious","$67,700 ","$122,600 ",15%
+305,University of Idaho,"Research University, For Sports Fans, State School","$65,500 ","$122,600 ",21%
+307,John Carroll University,"Private School, Religious","$62,800 ","$122,500 ",14%
+307,San Francisco State University,"Research University, State School","$73,900 ","$122,500 ",17%
+307,Michigan State University,"Research University, For Sports Fans, State School","$70,300 ","$122,500 ",25%
+307,University of Missouri-Columbia,"Research University, For Sports Fans, State School","$66,800 ","$122,500 ",15%
+311,Merrimack College,"Private School, Religious","$68,800 ","$122,400 ",11%
+312,New York Institute of Technology,Private School,"$70,300 ","$122,300 ",32%
+312,Biola University,"Private School, Religious, Research University","$65,300 ","$122,300 ",8%
+312,University of Minnesota-Duluth,State School,"$67,900 ","$122,300 ",32%
+315,Montclair State University,"Research University, State School","$63,200 ","$122,100 ",10%
+315,California State University-Fullerton,"Research University, For Sports Fans, State School","$64,900 ","$122,100 ",14%
+315,University of Alaska Fairbanks,"Research University, State School","$71,000 ","$122,100 ",19%
+318,Pacific Lutheran University,"Private School, Religious","$69,100 ","$122,000 ",15%
+319,University of North Carolina at Chapel Hill,"Research University, For Sports Fans, State School","$71,300 ","$121,900 ",23%
+319,LeTourneau University,"Private School, Religious","$75,400 ","$121,900 ",23%
+319,Gustavus Adolphus College,"Liberal Arts School, Private School, Religious","$64,700 ","$121,900 ",20%
+319,Assumption University,"Private School, Religious","$66,100 ","$121,900 ",9%
+323,Bryn Mawr College,"Liberal Arts School, Private School","$72,500 ","$121,800 ",25%
+323,West Virginia University,"Party School, Research University, For Sports Fans, State School","$67,800 ","$121,800 ",23%
+323,Iowa State University,"Research University, For Sports Fans, State School","$71,600 ","$121,800 ",39%
+326,Norwich University,Private School,"$70,400 ","$121,700 ",20%
+326,California State University-Monterey Bay,State School,"$64,400 ","$121,700 ",15%
+326,Principia College,"Liberal Arts School, Private School","$70,900 ","$121,700 ",30%
+329,Allegheny College,"Liberal Arts School, Private School, Religious","$62,700 ","$121,600 ",31%
+329,CUNY Brooklyn College,State School,"$65,800 ","$121,600 ",11%
+329,Sarah Lawrence College,"Liberal Arts School, Private School","$67,300 ","$121,600 ",0%
+329,University of Scranton,"Private School, Religious","$67,400 ","$121,600 ",14%
+329,William Jewell College,"Liberal Arts School, Private School","$62,400 ","$121,600 ",14%
+329,University of Kansas,"Research University, For Sports Fans, State School","$67,200 ","$121,600 ",17%
+335,Western New England University,Private School,"$73,300 ","$121,500 ",19%
+336,Oklahoma State University-Main Campus,"Research University, For Sports Fans, State School","$65,700 ","$121,400 ",25%
+336,Lynn University,Private School,"$57,400 ","$121,400 ",3%
+336,University of Alaska Anchorage,State School,"$70,700 ","$121,400 ",10%
+339,The University of Texas at Arlington,"Research University, For Sports Fans, State School","$70,300 ","$121,300 ",17%
+339,Loma Linda University,"Private School, Religious","$85,400 ","$121,300 ",3%
+339,St. Mary's College of Maryland,"Liberal Arts School, State School","$66,800 ","$121,300 ",23%
+342,Ramapo College of New Jersey,State School,"$65,000 ","$121,100 ",12%
+342,California State University-Sacramento,"For Sports Fans, State School","$68,900 ","$121,100 ",17%
+342,University of Michigan-Dearborn,State School,"$70,200 ","$121,100 ",45%
+345,Polytechnic University of Puerto Rico-Orlando,"Engineering, Private School","$70,300 ","$121,000 ",64%
+346,California State University-Northridge,"For Sports Fans, State School","$65,300 ","$120,900 ",12%
+346,Arizona State University Campus Immersion,"Research University, For Sports Fans, State School","$68,900 ","$120,900 ",26%
+346,Emerson College,Private School,"$63,200 ","$120,900 ",0%
+349,North Dakota State University-Main Campus,"Research University, For Sports Fans, State School","$68,800 ","$120,800 ",25%
+350,Christian Brothers University,"Private School, Religious","$64,100 ","$120,700 ",29%
+350,Salve Regina University,"Private School, Religious","$69,000 ","$120,700 ",5%
+350,The University of Texas at Dallas,"Research University, State School","$74,400 ","$120,700 ",48%
+350,University of New Hampshire-Main Campus,"Research University, For Sports Fans, State School","$69,700 ","$120,700 ",24%
+354,Ohio State University-Main Campus,"Research University, For Sports Fans, State School","$71,600 ","$120,600 ",27%
+355,Indiana University-Bloomington,"Research University, For Sports Fans, State School","$68,100 ","$120,500 ",17%
+356,University of Wisconsin-Platteville,State School,"$73,200 ","$120,400 ",37%
+356,Pacific Union College,"Liberal Arts School, Private School, Religious","$69,600 ","$120,400 ",5%
+358,Duquesne University,"Private School, Religious, Research University, For Sports Fans","$67,200 ","$120,300 ",12%
+358,University of Oklahoma-Norman Campus,"Research University, For Sports Fans, State School","$68,300 ","$120,300 ",22%
+358,University of Mary Washington,State School,"$67,000 ","$120,300 ",20%
+358,Dunwoody College of Technology,Private School,"$69,000 ","$120,300 ",18%
+362,Chapman University,"Private School, Religious","$70,500 ","$120,200 ",7%
+362,Wheaton College (Massachusetts),"Liberal Arts School, Private School","$64,500 ","$120,200 ",26%
+362,Loras College,"Private School, Religious","$61,300 ","$120,200 ",12%
+365,Hartwick College,"Liberal Arts School, Private School","$65,100 ","$120,100 ",15%
+366,Rider University,"Private School, For Sports Fans","$64,500 ","$120,000 ",5%
+366,Vaughn College of Aeronautics and Technology,Private School,"$72,400 ","$120,000 ",8%
+366,McDaniel College,"Liberal Arts School, Private School","$62,600 ","$120,000 ",4%
+369,University of Arkansas,"Research University, For Sports Fans, State School","$67,300 ","$119,900 ",18%
+369,University of Nebraska-Lincoln,"Research University, For Sports Fans, State School","$64,900 ","$119,900 ",23%
+371,SUNY College at Geneseo,State School,"$65,100 ","$119,700 ",18%
+372,California State University-Stanislaus,State School,"$64,100 ","$119,600 ",8%
+372,Colorado State University-Fort Collins,"Research University, For Sports Fans, State School","$68,100 ","$119,600 ",32%
+374,Brigham Young University-Idaho,"Private School, Religious","$67,200 ","$119,300 ",17%
+375,Dickinson College,"Liberal Arts School, Private School","$69,700 ","$118,900 ",27%
+375,Touro University,Private School,"$72,500 ","$118,900 ",7%
+375,Point Loma Nazarene University,"Private School, Religious","$66,700 ","$118,900 ",10%
+378,Lewis & Clark College,"Liberal Arts School, Private School","$64,700 ","$118,800 ",12%
+378,Westminster College (Missouri),"Liberal Arts School, Private School, Religious","$56,800 ","$118,800 ",22%
+380,Linfield University,"Liberal Arts School, Private School","$65,900 ","$118,700 ",6%
+381,CUNY Queens College,State School,"$68,100 ","$118,500 ",13%
+381,Central Washington University,State School,"$67,700 ","$118,500 ",11%
+381,Concordia University-Irvine,"Private School, Religious","$65,400 ","$118,500 ",3%
+384,University of North Dakota,"Research University, For Sports Fans, State School","$68,200 ","$118,400 ",14%
+385,Hamline University,"Private School, Religious","$63,000 ","$118,300 ",4%
+386,Suffolk University,"Private School, Research University","$67,900 ","$118,200 ",6%
+387,Stevenson University,Private School,"$63,400 ","$118,100 ",15%
+388,Northern Illinois University,"Research University, For Sports Fans, State School","$67,500 ","$118,000 ",17%
+388,University of Maryland Global Campus,State School,"$70,000 ","$118,000 ",30%
+390,University at Buffalo,"Research University, For Sports Fans, State School","$69,200 ","$117,900 ",34%
+390,Prairie View A & M University,"Research University, For Sports Fans, State School","$72,300 ","$117,900 ",20%
+390,University of Houston-Clear Lake,State School,"$63,000 ","$117,900 ",20%
+393,Holy Cross College,"Liberal Arts School, Private School, Religious","$62,600 ","$117,800 ",7%
+393,University of Colorado Denver/Anschutz Medical Campus,"Research University, State School","$67,700 ","$117,800 ",19%
+393,Mount St. Mary's University,"Private School, Religious","$62,600 ","$117,800 ",12%
+396,University of New Haven,Private School,"$65,400 ","$117,700 ",19%
+396,Cornell College,"Liberal Arts School, Private School, Religious","$65,100 ","$117,700 ",31%
+398,Kennesaw State University,"Research University, State School","$68,000 ","$117,600 ",27%
+398,Lamar University,"Research University, For Sports Fans, State School","$67,400 ","$117,600 ",9%
+400,Oberlin College,"Liberal Arts School, Private School","$69,200 ","$117,500 ",22%
+401,Kansas State University,"Research University, For Sports Fans, State School","$66,600 ","$117,400 ",19%
+402,Canisius College,"Private School, Religious, For Sports Fans","$60,500 ","$117,300 ",16%
+402,Excelsior University,Private School,"$68,400 ","$117,300 ",2%
+402,Temple University,"Research University, For Sports Fans, State School","$67,600 ","$117,300 ",15%
+405,Macalester College,"Liberal Arts School, Private School, Religious","$68,100 ","$117,100 ",34%
+406,Alma College,"Liberal Arts School, Private School, Religious","$61,500 ","$117,000 ",16%
+406,Nichols College,"Business, Private School","$68,600 ","$117,000 ",0%
+408,College of Staten Island CUNY,State School,"$65,600 ","$116,900 ",17%
+408,Saint Anselm College,"Liberal Arts School, Private School, Religious","$71,000 ","$116,900 ",15%
+408,University of Massachusetts-Dartmouth,"Research University, State School","$68,600 ","$116,900 ",20%
+411,Utah State University,"Research University, For Sports Fans, State School","$66,200 ","$116,800 ",13%
+411,Saint Xavier University,"Private School, Religious","$63,300 ","$116,800 ",15%
+413,Shepherd University,"Liberal Arts School, State School","$61,600 ","$116,700 ",13%
+413,Saint Michael's College,"Liberal Arts School, Private School, Religious","$63,500 ","$116,700 ",19%
+413,The University of Alabama,"Party School, Research University, For Sports Fans, State School","$67,700 ","$116,700 ",17%
+416,Manhattanville College,Private School,"$70,200 ","$116,600 ",3%
+416,Saint Peter's University,"Private School, Religious, For Sports Fans","$63,300 ","$116,600 ",15%
+416,New England Institute of Technology,Private School,"$68,300 ","$116,600 ",14%
+416,Regis University,"Private School, Religious","$69,400 ","$116,600 ",12%
+420,Farmingdale State College,State School,"$67,400 ","$116,500 ",11%
+420,The University of Texas Health Science Center at Houston,State School,"$83,000 ","$116,500 ",16%
+420,Quinnipiac University,"Private School, For Sports Fans","$71,400 ","$116,500 ",9%
+420,Montana State University,"Research University, For Sports Fans, State School","$67,100 ","$116,500 ",32%
+424,St. Mary's University,"Private School, Religious","$66,900 ","$116,400 ",18%
+425,University of Cincinnati-Main Campus,"Research University, For Sports Fans, State School","$68,100 ","$116,300 ",22%
+425,North Carolina A & T State University,"Research University, For Sports Fans, State School","$68,700 ","$116,300 ",30%
+425,Illinois State University,"Research University, For Sports Fans, State School","$64,000 ","$116,300 ",10%
+425,Louisiana Tech University,"Research University, For Sports Fans, State School","$66,500 ","$116,300 ",23%
+429,Widener University,"Private School, Research University","$70,300 ","$116,100 ",10%
+429,The University of Tampa,Private School,"$62,600 ","$116,100 ",15%
+429,Valparaiso University,"Private School, Religious, For Sports Fans","$67,500 ","$116,100 ",22%
+432,Gordon College,"Liberal Arts School, Private School, Religious, Sober School","$62,900 ","$116,000 ",16%
+433,CUNY Hunter College,"Sober School, State School","$67,400 ","$115,900 ",12%
+433,College of Mount Saint Vincent,"Private School, Religious","$64,400 ","$115,900 ",3%
+433,Saint Edward's University,"Private School, Religious","$64,200 ","$115,900 ",13%
+436,Xavier University,"Private School, Religious, For Sports Fans","$66,300 ","$115,800 ",5%
+437,Washington Adventist University,"Private School, Religious","$66,800 ","$115,600 ",7%
+438,Trinity International University-Illinois,"Private School, Religious, Research University","$57,900 ","$115,500 ",2%
+439,Roger Williams University,Private School,"$68,700 ","$115,400 ",16%
+439,Abilene Christian University,"Private School, Religious, For Sports Fans","$63,600 ","$115,400 ",9%
+441,University of North Carolina at Charlotte,"Research University, For Sports Fans, State School","$66,900 ","$115,300 ",28%
+441,The University of Texas Medical Branch at Galveston,State School,"$73,800 ","$115,300 ",4%
+441,Towson University,"For Sports Fans, State School","$64,800 ","$115,300 ",16%
+444,Ohio University-Main Campus,"Research University, For Sports Fans, State School","$65,200 ","$115,200 ",12%
+444,Florida State University,"Party School, Research University, For Sports Fans, State School","$64,500 ","$115,200 ",18%
+444,Birmingham-Southern College,"Liberal Arts School, Private School, Religious","$66,500 ","$115,200 ",18%
+444,Mount Holyoke College,"Liberal Arts School, Private School","$67,400 ","$115,200 ",26%
+448,Otis College of Art and Design,"Art, Private School","$66,800 ","$115,100 ",0%
+448,Creighton University,"Private School, Religious, For Sports Fans","$69,000 ","$115,100 ",10%
+448,Massachusetts College of Art and Design,"Art, State School","$64,800 ","$115,100 ",0%
+451,Lebanon Valley College,"Private School, Religious","$63,800 ","$115,000 ",12%
+451,Louisiana State University Health Sciences Center-Shreveport,State School,"$69,500 ","$115,000 ",5%
+453,CUNY City College,State School,"$70,300 ","$114,900 ",31%
+453,Knox College,"Liberal Arts School, Private School","$67,600 ","$114,900 ",24%
+453,Millsaps College,"Liberal Arts School, Private School, Religious","$61,500 ","$114,900 ",31%
+453,University of Kentucky,"Research University, For Sports Fans, State School","$65,100 ","$114,900 ",18%
+453,Berklee College of Music,"Art, Private School","$61,900 ","$114,900 ",21%
+458,Thomas Edison State University,State School,"$66,100 ","$114,800 ",2%
+458,Brigham Young University-Hawaii,"Private School, Religious","$64,200 ","$114,800 ",14%
+458,Oglethorpe University,"Liberal Arts School, Private School","$64,300 ","$114,800 ",26%
+458,University of Colorado Colorado Springs,State School,"$65,800 ","$114,800 ",21%
+462,Cornish College of the Arts,"Art, Private School","$66,200 ","$114,700 ",0%
+462,McMurry University,"Private School, Religious","$64,700 ","$114,700 ",13%
+462,"University of Maryland, Baltimore",State School,"$76,400 ","$114,700 ",3%
+465,Ohio State University-Mansfield Campus,State School,"$55,700 ","$114,600 ",0%
+465,Shippensburg University of Pennsylvania,State School,"$62,100 ","$114,600 ",12%
+465,California State University-Bakersfield,"For Sports Fans, State School","$60,800 ","$114,600 ",13%
+465,Woodbury University,Private School,"$63,900 ","$114,600 ",0%
+469,University of New Mexico-Main Campus,"Research University, For Sports Fans, State School","$60,000 ","$114,500 ",19%
+469,Utah Valley University,"For Sports Fans, State School","$65,100 ","$114,500 ",17%
+471,Rutgers University-Camden,"For Sports Fans, State School","$64,000 ","$114,400 ",8%
+471,California State University-Los Angeles,State School,"$62,600 ","$114,400 ",14%
+473,Felician University,"Private School, Religious","$64,000 ","$114,300 ",12%
+473,University of Bridgeport,Private School,"$62,000 ","$114,300 ",8%
+473,Calvin University,"Private School, Religious, Sober School","$61,600 ","$114,300 ",24%
+476,City University of Seattle,Private School,"$62,700 ","$114,100 ",10%
+476,California State University-San Marcos,State School,"$66,300 ","$114,100 ",13%
+476,Scripps College,"Liberal Arts School, Private School","$71,800 ","$114,100 ",21%
+479,Lycoming College,"Liberal Arts School, Private School, Religious","$60,900 ","$114,000 ",18%
+479,University of Maine,"Party School, Research University, For Sports Fans, State School","$68,000 ","$114,000 ",22%
+481,The University of Tennessee-Knoxville,"Research University, For Sports Fans, State School","$65,000 ","$113,900 ",22%
+481,University of Hawaii at Manoa,"Research University, For Sports Fans, State School","$66,000 ","$113,900 ",19%
+481,Minneapolis College of Art and Design,"Art, Private School","$60,400 ","$113,900 ",0%
+481,Mississippi State University,"Research University, For Sports Fans, State School","$64,600 ","$113,900 ",28%
+485,Vermont Technical College,State School,"$68,400 ","$113,800 ",6%
+486,New Mexico State University-Main Campus,"Research University, For Sports Fans, State School","$61,200 ","$113,700 ",26%
+486,University of South Florida,"Research University, For Sports Fans, State School","$64,200 ","$113,700 ",24%
+488,Fairleigh Dickinson University-Metropolitan Campus,Private School,"$65,700 ","$113,600 ",14%
+489,University of North Texas,"Research University, For Sports Fans, State School","$63,700 ","$113,500 ",17%
+489,Rush University,Private School,"$76,600 ","$113,500 ",6%
+489,University of Nevada-Reno,"Research University, For Sports Fans, State School","$66,100 ","$113,500 ",25%
+492,Houston Baptist University,"Private School, Religious, For Sports Fans","$62,400 ","$113,400 ",7%
+492,Saint Louis University,"Private School, Religious, Research University, For Sports Fans","$67,500 ","$113,400 ",16%
+494,Central Connecticut State University,"For Sports Fans, State School","$68,700 ","$113,300 ",16%
+494,Thomas Aquinas College,"Liberal Arts School, Private School, Religious, Sober School","$63,700 ","$113,300 ",0%
+494,Benedictine College,"Private School, Religious","$61,200 ","$113,300 ",17%
+497,SUNY College at Old Westbury,State School,"$61,400 ","$113,200 ",11%
+497,California Institute of the Arts,"Art, Private School","$71,600 ","$113,200 ",4%
+499,Southwestern Oklahoma State University,State School,"$59,500 ","$113,100 ",6%
+499,Elon University,"Party School, Private School, For Sports Fans","$68,800 ","$113,100 ",7%
+499,Wilkes University,Private School,"$66,000 ","$113,100 ",11%
+499,Tennessee Technological University,"Research University, For Sports Fans, State School","$68,500 ","$113,100 ",28%
+499,Stetson University,"Private School, For Sports Fans","$58,500 ","$113,100 ",7%
+504,California State University-Channel Islands,State School,"$63,500 ","$113,000 ",15%
+505,SUNY Polytechnic Institute,State School,"$65,700 ","$112,900 ",34%
+505,Hampton University,"Private School, For Sports Fans","$66,400 ","$112,900 ",13%
+505,Oakland University,"Research University, For Sports Fans, State School","$64,500 ","$112,900 ",22%
+508,Universidad Politecnica de Puerto Rico,"Engineering, Private School","$67,400 ","$112,800 ",73%
+508,Texas Tech University Health Sciences Center,State School,"$76,000 ","$112,800 ",2%
+510,University of Washington-Tacoma Campus,State School,"$72,800 ","$112,700 ",29%
+511,Ripon College,"Liberal Arts School, Private School","$58,300 ","$112,600 ",21%
+512,Messiah University,"Private School, Religious","$63,300 ","$112,500 ",12%
+512,University of Wyoming,"Research University, For Sports Fans, State School","$65,800 ","$112,500 ",22%
+512,Eckerd College,"Liberal Arts School, Private School, Religious","$64,400 ","$112,500 ",44%
+515,Portland State University,"Research University, For Sports Fans, State School","$65,400 ","$112,400 ",18%
+515,William Paterson University of New Jersey,State School,"$62,600 ","$112,400 ",7%
+515,Saint Martin's University,"Private School, Religious","$69,100 ","$112,400 ",36%
+515,Trine University,Private School,"$69,200 ","$112,400 ",36%
+515,Frostburg State University,State School,"$63,300 ","$112,400 ",14%
+520,Alfred University,Private School,"$60,600 ","$112,300 ",20%
+521,Monmouth University,"Private School, For Sports Fans","$65,500 ","$112,200 ",10%
+521,Augustana University,"Private School, Religious","$59,200 ","$112,200 ",15%
+521,University of Louisiana at Monroe,"Research University, For Sports Fans, State School","$61,000 ","$112,200 ",7%
+524,St. Francis College,"Private School, For Sports Fans","$66,000 ","$112,100 ",11%
+524,Bennington College,"Liberal Arts School, Private School","$59,900 ","$112,100 ",8%
+524,Georgia State University,"Research University, For Sports Fans, State School","$65,800 ","$112,100 ",21%
+524,Simmons University,"Private School, Sober School","$68,800 ","$112,100 ",2%
+528,University of North Georgia,State School,"$59,600 ","$112,000 ",12%
+528,Saint Mary's University of Minnesota,"Private School, Religious","$66,900 ","$112,000 ",5%
+528,Goucher College,"Liberal Arts School, Private School","$63,000 ","$112,000 ",9%
+531,Notre Dame de Namur University,"Private School, Religious","$72,100 ","$111,900 ",13%
+532,Bard College,"Liberal Arts School, Private School","$62,600 ","$111,800 ",0%
+532,SUNY at Purchase College,"Art, Liberal Arts School, State School","$64,000 ","$111,800 ",5%
+532,Champlain College,Private School,"$66,200 ","$111,800 ",31%
+532,University of Wisconsin-Eau Claire,State School,"$65,600 ","$111,800 ",12%
+532,Southwestern University,"Liberal Arts School, Private School, Religious","$64,300 ","$111,800 ",21%
+532,Central College,"Liberal Arts School, Private School, Religious","$65,500 ","$111,800 ",40%
+538,West Virginia Wesleyan College,"Private School, Religious","$55,900 ","$111,700 ",18%
+538,Embry-Riddle Aeronautical University-Worldwide,Private School,"$72,100 ","$111,700 ",7%
+540,Dominican University New York,Private School,"$67,000 ","$111,600 ",4%
+540,SUNY College of Technology at Delhi,State School,"$62,500 ","$111,600 ",3%
+540,Weber State University,"For Sports Fans, State School","$68,400 ","$111,600 ",12%
+540,Carroll College,"Private School, Religious","$59,900 ","$111,600 ",22%
+544,AdventHealth University,"Private School, Religious","$65,400 ","$111,500 ",4%
+544,Western Michigan University,"Research University, For Sports Fans, State School","$65,000 ","$111,500 ",15%
+546,Moravian University,"Liberal Arts School, Private School, Religious","$65,000 ","$111,400 ",10%
+546,University of Providence,"Private School, Religious","$54,500 ","$111,400 ",5%
+548,St Bonaventure University,"Private School, Religious, For Sports Fans","$61,000 ","$111,300 ",8%
+548,Bethany College (West Virginia),"Liberal Arts School, Private School, Religious","$59,200 ","$111,300 ",32%
+548,Ottawa University-Kansas City,"Private School, Religious","$62,400 ","$111,300 ",44%
+551,Hendrix College,"Liberal Arts School, Private School, Religious","$58,400 ","$111,200 ",30%
+551,Hope College,"Liberal Arts School, Private School, Religious","$63,700 ","$111,200 ",20%
+551,Rockhurst University,"Private School, Religious","$63,700 ","$111,200 ",9%
+554,University of Massachusetts-Boston,"Research University, State School","$67,500 ","$111,100 ",16%
+555,Le Moyne College,"Private School, Religious","$64,200 ","$111,000 ",13%
+555,Southern Illinois University-Carbondale,"Research University, For Sports Fans, State School","$61,400 ","$111,000 ",15%
+555,University of Evansville,"Private School, Religious, For Sports Fans","$61,900 ","$111,000 ",16%
+555,Lewis University,"Private School, Religious","$65,100 ","$111,000 ",18%
+555,Saint Cloud State University,State School,"$66,800 ","$111,000 ",17%
+555,University of Detroit Mercy,"Private School, Religious, For Sports Fans","$66,200 ","$111,000 ",22%
+555,University of New Orleans,"Research University, For Sports Fans, State School","$61,300 ","$111,000 ",28%
+562,California State Polytechnic University-Humboldt,State School,"$58,300 ","$110,900 ",20%
+562,Simpson College,"Liberal Arts School, Private School, Religious","$63,700 ","$110,900 ",16%
+564,Marymount University,"Private School, Religious","$66,500 ","$110,800 ",21%
+564,The University of Texas Health Science Center at San Antonio,State School,"$71,500 ","$110,800 ",5%
+564,Saint Mary's College,"Liberal Arts School, Private School, Religious","$59,500 ","$110,800 ",14%
+564,University of New England,Private School,"$61,300 ","$110,800 ",9%
+568,Southern Illinois University-Edwardsville,"For Sports Fans, State School","$66,300 ","$110,700 ",18%
+568,Franklin College,"Liberal Arts School, Private School, Religious","$63,100 ","$110,700 ",17%
+570,Bridgewater College,"Liberal Arts School, Private School, Religious","$53,600 ","$110,600 ",18%
+570,Florida International University,"Research University, For Sports Fans, State School","$62,500 ","$110,600 ",18%
+572,University of St Thomas (Texas),"Private School, Religious","$62,600 ","$110,500 ",9%
+572,Northern Arizona University,"Research University, For Sports Fans, State School","$63,300 ","$110,500 ",16%
+574,Adelphi University,"Private School, Research University","$67,000 ","$110,400 ",10%
+574,University of New Hampshire at Manchester,"Liberal Arts School, State School","$66,800 ","$110,400 ",41%
+574,Laguna College of Art and Design,"Art, Private School","$70,200 ","$110,400 ",0%
+574,Truman State University,State School,"$61,600 ","$110,400 ",17%
+578,Franciscan University of Steubenville,"Private School, Religious","$61,800 ","$110,300 ",7%
+578,Bellin College,Private School,"$72,500 ","$110,300 ",0%
+578,Sam Houston State University,"Research University, For Sports Fans, State School","$59,900 ","$110,300 ",5%
+578,Augsburg University,"Private School, Religious","$64,700 ","$110,300 ",8%
+578,Missouri State University-Springfield,"For Sports Fans, State School","$58,200 ","$110,300 ",11%
+578,Emmanuel College,"Liberal Arts School, Private School, Religious","$63,900 ","$110,300 ",21%
+584,Westminster College (Utah),Private School,"$63,900 ","$110,200 ",11%
+584,Randolph College,"Liberal Arts School, Private School","$61,300 ","$110,200 ",23%
+584,Saint Norbert College,"Liberal Arts School, Private School, Religious","$62,200 ","$110,200 ",14%
+584,Thomas Jefferson University,Private School,"$74,500 ","$110,200 ",5%
+584,Waynesburg University,"Private School, Religious","$60,300 ","$110,200 ",7%
+589,University of Oklahoma-Health Sciences Center,State School,"$68,000 ","$110,100 ",3%
+589,Chaminade University of Honolulu,"Private School, Religious","$58,000 ","$110,100 ",5%
+589,Loyola University New Orleans,"Private School, Religious","$59,600 ","$110,100 ",6%
+592,Western Governors University,Private School,"$69,800 ","$110,000 ",14%
+593,St. John's College (New Mexico),"Liberal Arts School, Private School","$67,000 ","$109,900 ",0%
+593,Florida Atlantic University,"Research University, For Sports Fans, State School","$62,600 ","$109,900 ",16%
+593,National University,Private School,"$69,000 ","$109,900 ",6%
+593,Minnesota State University-Mankato,State School,"$65,400 ","$109,900 ",14%
+597,Rowan University,"Research University, State School","$64,300 ","$109,800 ",23%
+597,Jacksonville University,"Private School, For Sports Fans","$64,300 ","$109,800 ",7%
+599,St. John Fisher University,"Private School, Religious, Research University","$61,600 ","$109,700 ",6%
+600,University of Nevada-Las Vegas,"Research University, For Sports Fans, State School","$63,300 ","$109,600 ",15%
+601,Molloy College,"Private School, Religious","$75,900 ","$109,500 ",3%
+602,Stephen F Austin State University,"For Sports Fans, State School","$58,300 ","$109,400 ",7%
+602,College for Creative Studies,Private School,"$65,400 ","$109,400 ",8%
+602,Sierra Nevada University,Private School,"$62,800 ","$109,400 ",3%
+605,Bushnell University,"Private School, Religious","$61,400 ","$109,300 ",3%
+605,SUNY College of Technology at Alfred,State School,"$64,800 ","$109,300 ",7%
+605,Concordia University-Saint Paul,"Private School, Religious","$63,400 ","$109,300 ",5%
+605,Eastern Nazarene College,"Private School, Religious","$58,100 ","$109,300 ",11%
+609,Bowling Green State University-Main Campus,"Research University, For Sports Fans, State School","$59,700 ","$109,200 ",10%
+609,George Fox University,"Private School, Religious","$65,800 ","$109,200 ",12%
+609,University of Wisconsin-La Crosse,State School,"$63,400 ","$109,200 ",19%
+609,The University of Texas at El Paso,"Research University, For Sports Fans, State School","$59,400 ","$109,200 ",26%
+609,Texas A & M University-Commerce,"Research University, State School","$59,500 ","$109,200 ",11%
+609,University of Louisiana at Lafayette,"Research University, For Sports Fans, State School","$59,900 ","$109,200 ",19%
+615,SUNY College of Environmental Science and Forestry,"Research University, State School","$64,000 ","$109,100 ",49%
+615,The University of Texas Permian Basin,State School,"$68,200 ","$109,100 ",14%
+615,Azusa Pacific University,"Private School, Religious, Research University","$64,400 ","$109,100 ",3%
+615,Dean College,Private School,"$54,700 ","$109,100 ",1%
+619,University of Toledo,"Research University, For Sports Fans, State School","$65,800 ","$109,000 ",24%
+619,The University of Texas at San Antonio,"Research University, For Sports Fans, State School","$64,700 ","$109,000 ",26%
+619,Centenary College of Louisiana,"Liberal Arts School, Private School, Religious","$58,100 ","$109,000 ",29%
+619,Framingham State University,State School,"$63,700 ","$109,000 ",7%
+623,University of Wisconsin-Milwaukee,"Research University, For Sports Fans, State School","$65,200 ","$108,900 ",16%
+623,Texas State University,"Research University, For Sports Fans, State School","$64,000 ","$108,900 ",12%
+625,University of Lynchburg,"Private School, Religious","$59,600 ","$108,800 ",10%
+625,University of Central Florida,"Research University, For Sports Fans, State School","$63,700 ","$108,800 ",19%
+625,Georgetown College,"Liberal Arts School, Private School, Religious","$57,700 ","$108,800 ",13%
+628,Harding University,"Private School, Religious","$62,500 ","$108,700 ",13%
+628,Samford University,"Private School, Religious, For Sports Fans","$62,000 ","$108,700 ",3%
+630,Thomas More University,"Private School, Religious","$61,200 ","$108,600 ",9%
+631,CUNY New York City College of Technology,State School,"$66,600 ","$108,500 ",22%
+632,Hawaii Pacific University,Private School,"$67,200 ","$108,400 ",14%
+633,University of Akron Main Campus,"Research University, For Sports Fans, State School","$65,200 ","$108,300 ",23%
+633,Old Dominion University,"Research University, For Sports Fans, State School","$63,900 ","$108,300 ",22%
+633,University of Pittsburgh-Johnstown,"Liberal Arts School, State School","$63,300 ","$108,300 ",48%
+636,Medical University of South Carolina,State School,"$74,800 ","$108,200 ",5%
+636,Saint Vincent College,"Liberal Arts School, Private School, Religious","$62,700 ","$108,200 ",22%
+636,University of Illinois Springfield,State School,"$61,400 ","$108,200 ",27%
+636,Dordt University,"Private School, Religious","$65,200 ","$108,200 ",16%
+640,Curry College,Private School,"$62,900 ","$108,100 ",3%
+641,University of Wisconsin-Whitewater,State School,"$61,600 ","$107,900 ",7%
+641,Dakota State University,"Engineering, State School","$63,900 ","$107,900 ",68%
+641,Westminster College (Pennsylvania),"Liberal Arts School, Private School, Religious","$57,400 ","$107,900 ",15%
+641,The Master's University and Seminary,"Private School, Religious","$63,800 ","$107,900 ",6%
+645,Florida Gulf Coast University,"For Sports Fans, State School","$60,500 ","$107,800 ",10%
+646,University of South Carolina-Columbia,"Research University, For Sports Fans, State School","$65,400 ","$107,700 ",19%
+646,Rollins College,Private School,"$62,300 ","$107,700 ",8%
+646,College of Saint Benedict,"Liberal Arts School, Private School, Religious","$61,800 ","$107,700 ",18%
+646,Lesley University,"Private School, Research University","$56,300 ","$107,700 ",3%
+650,University of Houston-Downtown,State School,"$63,800 ","$107,600 ",6%
+650,Washington College,"Liberal Arts School, Private School","$63,000 ","$107,600 ",22%
+652,Virginia Commonwealth University,"Research University, For Sports Fans, State School","$63,200 ","$107,500 ",19%
+652,Carroll University,"Private School, Religious","$58,900 ","$107,500 ",13%
+652,West Chester University of Pennsylvania,State School,"$61,500 ","$107,500 ",9%
+655,SUNY Oneonta,State School,"$60,100 ","$107,400 ",10%
+655,College of Charleston,"For Sports Fans, State School","$62,500 ","$107,400 ",20%
+655,University of La Verne,"Private School, Research University","$63,100 ","$107,400 ",5%
+655,University of Missouri-Kansas City,"Research University, For Sports Fans, State School","$64,600 ","$107,400 ",23%
+659,Beloit College,"Liberal Arts School, Private School","$60,400 ","$107,300 ",25%
+659,University of Nebraska at Omaha,"Research University, For Sports Fans, State School","$62,400 ","$107,300 ",17%
+661,Cabrini University,"Private School, Religious","$59,900 ","$107,200 ",7%
+661,Olivet Nazarene University,"Private School, Religious","$63,500 ","$107,200 ",11%
+661,Fitchburg State University,State School,"$58,200 ","$107,200 ",8%
+664,Marietta College,Private School,"$60,300 ","$107,100 ",22%
+664,Wright State University-Main Campus,"Research University, For Sports Fans, State School","$64,200 ","$107,100 ",27%
+664,Carthage College,"Liberal Arts School, Private School, Religious","$61,100 ","$107,100 ",14%
+664,Bethel University (Minnesota),"Private School, Religious","$65,000 ","$107,100 ",10%
+668,Seattle Central College,State School,"$66,600 ","$107,000 ",18%
+668,Benedictine University,"Private School, Religious, Research University","$64,300 ","$107,000 ",12%
+668,Cleary University,"Business, Private School","$60,900 ","$107,000 ",0%
+671,Louisiana State University Health Sciences Center-New Orleans,State School,"$64,200 ","$106,900 ",2%
+672,The University of Montana,"Research University, For Sports Fans, State School","$58,200 ","$106,800 ",8%
+673,DeSales University,"Private School, Religious","$62,300 ","$106,700 ",8%
+673,Longwood University,"For Sports Fans, State School","$58,900 ","$106,700 ",5%
+673,Dallas Baptist University,"Private School, Religious, Research University","$63,400 ","$106,700 ",11%
+676,Amberton University,"Private School, Religious","$66,100 ","$106,600 ",0%
+676,University of North Florida,"For Sports Fans, State School","$61,300 ","$106,600 ",14%
+676,Wayne State University,"Research University, State School","$65,300 ","$106,600 ",16%
+676,Salisbury University,State School,"$63,200 ","$106,600 ",11%
+680,Stockton University,State School,"$59,200 ","$106,500 ",13%
+681,Gwynedd Mercy University,"Private School, Religious","$67,700 ","$106,400 ",2%
+681,Oklahoma Christian University,"Private School, Religious","$62,100 ","$106,400 ",27%
+681,University of South Dakota,"Research University, For Sports Fans, State School","$58,700 ","$106,400 ",7%
+681,Indiana Institute of Technology,"Business, Private School","$63,900 ","$106,400 ",17%
+681,Colorado State University Pueblo,State School,"$60,600 ","$106,400 ",10%
+686,St. Joseph's University-New York,Private School,"$64,700 ","$106,300 ",5%
+686,Dominican University of California,Private School,"$71,400 ","$106,300 ",22%
+688,King's College,"Private School, Religious","$60,200 ","$106,200 ",12%
+688,York College of Pennsylvania,Private School,"$65,400 ","$106,200 ",16%
+688,University of Minnesota-Crookston,State School,"$65,900 ","$106,200 ",4%
+688,University of Mississippi,"Research University, For Sports Fans, State School","$62,000 ","$106,200 ",12%
+692,SUNY College at Potsdam,State School,"$56,000 ","$106,100 ",9%
+692,Regis College,"Private School, Religious","$68,900 ","$106,100 ",2%
+694,Albright College,"Liberal Arts School, Private School, Religious","$63,000 ","$106,000 ",13%
+694,South Dakota State University,"Research University, For Sports Fans, State School","$64,200 ","$106,000 ",18%
+694,Winona State University,State School,"$64,700 ","$106,000 ",11%
+697,Whitworth University,"Private School, Religious","$63,800 ","$105,900 ",16%
+697,Marian University (Wisconsin),"Private School, Religious","$56,800 ","$105,900 ",3%
+697,Georgia Southern University,"Research University, For Sports Fans, State School","$62,600 ","$105,900 ",17%
+700,Cedarville University,"Private School, Religious","$66,700 ","$105,800 ",16%
+700,Bob Jones University,"Private School, Religious","$60,300 ","$105,800 ",9%
+700,McNeese State University,"For Sports Fans, State School","$63,100 ","$105,800 ",15%
+703,Delaware Valley University,Private School,"$57,800 ","$105,700 ",11%
+703,Northwood University,"Business, Private School","$59,700 ","$105,700 ",1%
+705,University of Wisconsin-Stout,State School,"$64,800 ","$105,600 ",23%
+705,Metropolitan State University of Denver,State School,"$63,300 ","$105,600 ",12%
+705,University of Missouri-St Louis,"Research University, State School","$63,800 ","$105,600 ",18%
+708,Pacific Northwest College of Art,"Art, Private School","$58,400 ","$105,500 ",0%
+709,Walsh University,"Private School, Religious","$59,100 ","$105,400 ",8%
+709,Christopher Newport University,State School,"$66,300 ","$105,400 ",27%
+709,Millikin University,Private School,"$58,700 ","$105,400 ",9%
+709,University of Saint Mary,"Private School, Religious","$63,200 ","$105,400 ",11%
+713,The King's College,"Liberal Arts School, Private School, Religious","$66,600 ","$105,300 ",0%
+713,Concordia University Texas,"Private School, Religious","$63,500 ","$105,300 ",3%
+713,Northwest Missouri State University,State School,"$59,500 ","$105,300 ",11%
+713,Newman University,"Private School, Religious","$56,800 ","$105,300 ",7%
+717,Immaculata University,"Private School, Religious, Research University","$64,200 ","$105,200 ",5%
+717,High Point University,"Private School, Religious, For Sports Fans","$62,900 ","$105,200 ",8%
+717,Goddard College,Private School,"$61,900 ","$105,200 ",0%
+720,Mount Saint Mary College,"Private School, Religious, For Sports Fans","$68,300 ","$105,100 ",8%
+720,Universidad del Sagrado Corazon,"Private School, Religious","$58,800 ","$105,100 ",4%
+720,Saint Francis University,"Private School, Religious, For Sports Fans","$63,000 ","$105,100 ",10%
+723,The University of Findlay,"Private School, Religious","$60,700 ","$105,000 ",5%
+723,Northwest University,"Private School, Religious","$67,400 ","$105,000 ",6%
+723,Western Illinois University,"For Sports Fans, State School","$57,500 ","$105,000 ",11%
+726,Youngstown State University,"For Sports Fans, State School","$61,700 ","$104,900 ",16%
+726,Millersville University of Pennsylvania,State School,"$59,300 ","$104,900 ",16%
+726,State University of New York at Oswego,State School,"$58,100 ","$104,900 ",12%
+726,The University of Tennessee-Chattanooga,"For Sports Fans, State School","$58,300 ","$104,900 ",16%
+726,Graceland University-Lamoni,"Private School, Religious","$60,700 ","$104,900 ",4%
+731,Robert Morris University,"Private School, Research University, For Sports Fans","$61,900 ","$104,800 ",17%
+731,The College of Idaho,"Liberal Arts School, Private School","$57,800 ","$104,800 ",22%
+731,Northern Kentucky University,"For Sports Fans, State School","$62,700 ","$104,800 ",8%
+734,University of Northern Colorado,"Research University, For Sports Fans, State School","$60,800 ","$104,700 ",9%
+735,Edgewood College,"Private School, Religious, Research University","$60,700 ","$104,600 ",9%
+735,West Texas A & M University,State School,"$59,000 ","$104,600 ",9%
+735,Berry College,"Private School, Sober School","$56,700 ","$104,600 ",20%
+735,Bellarmine University,"Private School, Religious","$60,300 ","$104,600 ",8%
+739,Queens University of Charlotte,"Private School, Religious","$64,100 ","$104,500 ",6%
+739,Elizabethtown College,"Liberal Arts School, Private School","$64,100 ","$104,500 ",16%
+739,La Sierra University,"Private School, Religious","$65,800 ","$104,500 ",7%
+739,Hastings College,"Private School, Religious","$61,400 ","$104,500 ",15%
+739,Pittsburg State University,State School,"$59,700 ","$104,500 ",6%
+744,Holy Family University,"Private School, Religious","$62,300 ","$104,400 ",5%
+744,Eastern Washington University,"For Sports Fans, State School","$64,700 ","$104,400 ",15%
+744,Northwestern College,"Private School, Religious","$59,500 ","$104,400 ",6%
+747,Upstate Medical University,State School,"$71,500 ","$104,300 ",4%
+747,Ferrum College,"Private School, Religious","$49,500 ","$104,300 ",10%
+747,University of Saint Joseph,"Private School, Religious","$68,500 ","$104,300 ",9%
+747,Holy Names University,"Private School, Religious","$64,900 ","$104,300 ",3%
+747,Culver-Stockton College,"Private School, Religious","$54,200 ","$104,300 ",3%
+747,Wartburg College,"Liberal Arts School, Private School, Religious","$61,500 ","$104,300 ",26%
+753,Johnson C Smith University,"Liberal Arts School, Private School","$61,400 ","$104,200 ",20%
+753,Monmouth College,"Liberal Arts School, Private School, Religious","$61,200 ","$104,200 ",15%
+755,University of Mount Union,Private School,"$57,900 ","$104,100 ",17%
+755,Florida Southern College,"Private School, Religious","$59,300 ","$104,100 ",20%
+755,Roosevelt University,Private School,"$60,900 ","$104,100 ",10%
+755,Union College (Nebraska),"Private School, Religious","$65,000 ","$104,100 ",28%
+755,Coe College,"Liberal Arts School, Private School, Religious","$58,700 ","$104,100 ",25%
+755,Xavier University of Louisiana,"Private School, Religious","$56,700 ","$104,100 ",28%
+755,Franciscan Missionaries of Our Lady University,"Private School, Religious","$63,100 ","$104,100 ",2%
+762,Neumann University,"Private School, Religious","$63,500 ","$104,000 ",4%
+762,Kean University,State School,"$61,100 ","$104,000 ",13%
+762,Rosemont College,"Private School, Religious","$59,000 ","$104,000 ",3%
+762,Herzing University-Birmingham,Private School,"$60,800 ","$104,000 ",0%
+762,University of Alabama at Birmingham,"Research University, For Sports Fans, State School","$61,400 ","$104,000 ",20%
+762,Endicott College,Private School,"$64,700 ","$104,000 ",3%
+768,Southern Oregon University,State School,"$59,600 ","$103,900 ",8%
+768,East Carolina University,"Research University, For Sports Fans, State School","$62,100 ","$103,900 ",12%
+768,Columbia College Chicago,"Art, Private School","$58,700 ","$103,900 ",1%
+768,Colby-Sawyer College,Private School,"$60,500 ","$103,900 ",10%
+768,University of Louisville,"Research University, For Sports Fans, State School","$63,100 ","$103,900 ",20%
+773,Eastern Illinois University,"For Sports Fans, State School","$57,500 ","$103,800 ",7%
+773,Tuskegee University,Private School,"$70,700 ","$103,800 ",29%
+775,Oral Roberts University,"Private School, Religious, For Sports Fans","$58,700 ","$103,700 ",9%
+775,University of Arkansas Grantham,State School,"$69,800 ","$103,700 ",9%
+775,Southern Utah University,"For Sports Fans, State School","$57,900 ","$103,700 ",5%
+775,School of the Art Institute of Chicago,"Art, Private School","$59,500 ","$103,700 ",0%
+779,Mount Carmel College of Nursing,"Private School, Religious","$70,300 ","$103,600 ",0%
+779,Otterbein University,"Private School, Religious","$59,700 ","$103,600 ",14%
+779,Webber International University,Private School,"$57,900 ","$103,600 ",5%
+779,University of St Francis,"Private School, Religious","$62,800 ","$103,600 ",4%
+779,St Catherine University,"Private School, Religious","$63,200 ","$103,600 ",2%
+784,Cleveland State University,"Research University, For Sports Fans, State School","$61,800 ","$103,500 ",22%
+784,Indiana University of Pennsylvania-Main Campus,"Party School, Research University, State School","$59,300 ","$103,500 ",8%
+784,Slippery Rock University of Pennsylvania,State School,"$59,000 ","$103,500 ",10%
+784,California State University-San Bernardino,State School,"$59,500 ","$103,500 ",12%
+784,Eastern Connecticut State University,State School,"$64,100 ","$103,500 ",11%
+784,Southeastern Louisiana University,"For Sports Fans, State School","$58,300 ","$103,500 ",9%
+790,Gannon University,"Private School, Religious","$64,800 ","$103,400 ",14%
+790,Universidad Ana G. Mendez-Gurabo Campus,"Private School, Research University","$54,600 ","$103,400 ",12%
+790,Savannah College of Art and Design,Private School,"$61,000 ","$103,400 ",5%
+790,Webster University,Private School,"$60,400 ","$103,400 ",4%
+794,University of Jamestown,"Private School, Religious","$60,300 ","$103,300 ",9%
+794,Texas A & M University-Corpus Christi,"Research University, For Sports Fans, State School","$60,500 ","$103,300 ",14%
+794,Nova Southeastern University,"Private School, Research University","$62,500 ","$103,300 ",11%
+794,California State University-Dominguez Hills,State School,"$60,200 ","$103,300 ",8%
+798,Langston University,State School,"$57,800 ","$103,200 ",5%
+798,University of Mary Hardin-Baylor,"Private School, Religious","$63,100 ","$103,200 ",11%
+798,University of Northern Iowa,"For Sports Fans, State School","$59,200 ","$103,200 ",7%
+801,Hanover College,"Liberal Arts School, Private School, Religious","$59,800 ","$103,100 ",26%
+801,National Louis University,"Private School, Research University","$58,100 ","$103,100 ",1%
+801,Eastern Michigan University,"Research University, For Sports Fans, State School","$60,500 ","$103,100 ",10%
+801,Sterling College,Private School,"$52,700 ","$103,100 ",5%
+801,University of Baltimore,State School,"$65,400 ","$103,100 ",6%
+806,Nevada State College,State School,"$67,500 ","$103,000 ",4%
+806,University of Puerto Rico-Medical Sciences,State School,"$56,900 ","$103,000 ",4%
+806,Idaho State University,"Research University, For Sports Fans, State School","$61,800 ","$103,000 ",8%
+809,Bellevue University,Private School,"$62,700 ","$102,900 ",17%
+810,Indiana State University,"Research University, For Sports Fans, State School","$60,300 ","$102,800 ",8%
+810,Wichita State University,"Research University, For Sports Fans, State School","$62,100 ","$102,800 ",22%
+812,CUNY John Jay College of Criminal Justice,State School,"$59,300 ","$102,700 ",6%
+812,Whitworth University-Adult Degree Programs,"Private School, Religious","$63,700 ","$102,700 ",0%
+812,Austin College,"Liberal Arts School, Private School, Religious","$67,300 ","$102,700 ",21%
+812,Spelman College,"Liberal Arts School, Private School","$68,000 ","$102,700 ",24%
+812,Elmhurst University,"Private School, Religious","$63,200 ","$102,700 ",11%
+812,University of Minnesota-Morris,"Liberal Arts School, State School","$57,800 ","$102,700 ",35%
+818,Corban University,"Private School, Religious","$55,200 ","$102,600 ",3%
+818,Appalachian State University,"For Sports Fans, State School","$60,100 ","$102,600 ",8%
+818,Lenoir-Rhyne University,"Private School, Religious","$56,600 ","$102,600 ",7%
+818,SUNY Cortland,State School,"$57,600 ","$102,600 ",6%
+818,University of Wisconsin-Oshkosh,State School,"$61,900 ","$102,600 ",7%
+818,Boise State University,"Research University, For Sports Fans, State School","$64,200 ","$102,600 ",14%
+818,Vanguard University of Southern California,"Private School, Religious","$61,600 ","$102,600 ",4%
+825,Kent State University at Kent,"Research University, For Sports Fans, State School","$58,100 ","$102,500 ",10%
+825,Barry University,"Private School, Religious, Research University","$60,700 ","$102,500 ",11%
+825,Charter Oak State College,"Liberal Arts School, State School","$62,700 ","$102,500 ",0%
+825,Transylvania University,"Liberal Arts School, Private School, Religious","$60,000 ","$102,500 ",29%
+829,Kettering College,"Private School, Religious","$64,700 ","$102,400 ",0%
+829,University of Wisconsin-Parkside,"Liberal Arts School, State School","$60,700 ","$102,400 ",12%
+829,Greenville University,"Private School, Religious","$55,300 ","$102,400 ",7%
+829,Western Connecticut State University,State School,"$65,900 ","$102,400 ",5%
+833,Niagara University,"Private School, Religious, For Sports Fans","$55,300 ","$102,300 ",7%
+833,Northeastern Illinois University,State School,"$60,900 ","$102,300 ",15%
+833,Centre College,"Liberal Arts School, Private School, Religious","$61,400 ","$102,300 ",26%
+836,Mercy College,Private School,"$59,200 ","$102,200 ",5%
+836,Presbyterian College,"Liberal Arts School, Private School, Religious, For Sports Fans","$61,200 ","$102,200 ",23%
+836,Plymouth State University,State School,"$60,200 ","$102,200 ",7%
+836,Ferris State University,State School,"$62,700 ","$102,200 ",7%
+836,Doane University,"Liberal Arts School, Private School","$54,800 ","$102,200 ",9%
+841,Cameron University,State School,"$54,000 ","$102,100 ",17%
+841,University of North Carolina Wilmington,"For Sports Fans, State School","$59,500 ","$102,100 ",12%
+841,Elmira College,"Liberal Arts School, Private School","$60,200 ","$102,100 ",8%
+841,CUNY York College,State School,"$60,400 ","$102,100 ",12%
+841,Lipscomb University,"Private School, Religious, Research University, For Sports Fans","$62,700 ","$102,100 ",12%
+841,Anna Maria College,"Private School, Religious","$59,700 ","$102,100 ",0%
+847,Arcadia University,"Private School, Religious","$55,500 ","$102,000 ",10%
+847,State University of New York at New Paltz,State School,"$61,600 ","$102,000 ",13%
+847,Midwestern State University,State School,"$63,000 ","$102,000 ",11%
+850,Andrews University,"Private School, Religious, Research University","$60,100 ","$101,900 ",8%
+850,Luther College,"Liberal Arts School, Private School, Religious","$61,000 ","$101,900 ",18%
+850,Nicholls State University,"For Sports Fans, State School","$56,000 ","$101,900 ",6%
+853,Capital University,"Private School, Religious","$58,300 ","$101,800 ",7%
+853,Randolph-Macon College,"Liberal Arts School, Private School, Religious","$58,700 ","$101,800 ",29%
+853,University of West Georgia,"Research University, State School","$59,400 ","$101,800 ",6%
+856,Franklin University,"Business, Private School","$58,500 ","$101,700 ",7%
+856,Indiana University-Purdue University-Indianapolis,"Research University, For Sports Fans, State School","$64,300 ","$101,700 ",15%
+856,Alaska Pacific University,"Private School, Religious","$59,000 ","$101,700 ",0%
+856,University of Nebraska Medical Center,State School,"$70,300 ","$101,700 ",8%
+856,Park University,Private School,"$61,400 ","$101,700 ",10%
+861,University of Puerto Rico-Rio Piedras,"Research University, State School","$56,400 ","$101,600 ",16%
+861,Worcester State University,State School,"$63,900 ","$101,600 ",11%
+861,Baker University,"Private School, Religious","$60,900 ","$101,600 ",3%
+864,Purdue University Fort Wayne,"For Sports Fans, State School","$62,600 ","$101,500 ",22%
+864,John Brown University,Private School,"$61,700 ","$101,500 ",11%
+864,Grand Valley State University,State School,"$61,100 ","$101,500 ",16%
+864,Maryland Institute College of Art,"Art, Private School","$65,400 ","$101,500 ",0%
+868,South Carolina State University,"For Sports Fans, State School","$55,400 ","$101,400 ",16%
+868,Northwest Nazarene University,"Private School, Religious","$59,200 ","$101,400 ",10%
+870,Tarleton State University,State School,"$59,100 ","$101,300 ",7%
+870,Nebraska Methodist College of Nursing & Allied Health,"Private School, Religious","$70,400 ","$101,300 ",0%
+872,Shawnee State University,State School,"$59,200 ","$101,200 ",10%
+872,McKendree University,"Private School, Religious","$59,200 ","$101,200 ",7%
+872,Goldey-Beacom College,"Business, Private School","$63,400 ","$101,200 ",0%
+875,Daemen University,Private School,"$60,200 ","$101,100 ",1%
+875,Utica University,Private School,"$60,700 ","$101,100 ",4%
+875,University of Wisconsin-Stevens Point,State School,"$57,600 ","$101,100 ",11%
+875,Franklin Pierce University,Private School,"$58,700 ","$101,100 ",3%
+879,Rivier University,"Private School, Religious","$64,900 ","$101,000 ",9%
+880,Mercer University,"Private School, Research University, For Sports Fans","$63,700 ","$100,900 ",15%
+880,Southern University and A & M College,"For Sports Fans, State School","$64,000 ","$100,900 ",14%
+882,SUNY College at Plattsburgh,State School,"$59,700 ","$100,800 ",11%
+882,Trinity Christian College,"Private School, Religious","$63,000 ","$100,800 ",7%
+882,Manchester University,"Private School, Religious","$59,400 ","$100,800 ",16%
+885,Cumberland University,Private School,"$57,800 ","$100,700 ",4%
+885,Ouachita Baptist University,"Liberal Arts School, Private School, Religious","$54,000 ","$100,700 ",14%
+885,Concordia College at Moorhead,"Liberal Arts School, Private School, Religious","$59,800 ","$100,700 ",23%
+885,University of Holy Cross,"Private School, Religious","$58,200 ","$100,700 ",8%
+885,Bowie State University,State School,"$61,200 ","$100,700 ",18%
+885,Saint Joseph's College of Maine,"Private School, Religious","$59,700 ","$100,700 ",4%
+891,Rocky Mountain College,"Private School, Religious","$61,200 ","$100,600 ",15%
+891,University of Nebraska at Kearney,State School,"$57,700 ","$100,600 ",11%
+893,D'Youville University,Private School,"$62,700 ","$100,500 ",3%
+893,Roanoke College,"Liberal Arts School, Private School, Religious","$62,000 ","$100,500 ",18%
+893,Walsh College,"Business, Private School","$64,300 ","$100,500 ",10%
+893,Central Michigan University,"Research University, For Sports Fans, State School","$61,400 ","$100,500 ",11%
+893,Bridgewater State University,State School,"$62,900 ","$100,500 ",9%
+898,Marymount Manhattan College,"Liberal Arts School, Private School","$63,600 ","$100,400 ",2%
+898,New Jersey City University,State School,"$62,200 ","$100,400 ",9%
+898,The University of Texas at Tyler,State School,"$63,800 ","$100,400 ",13%
+898,New England College,Private School,"$54,500 ","$100,400 ",45%
+898,Barnes-Jewish College Goldfarb School of Nursing,Private School,"$69,200 ","$100,400 ",0%
+903,Alabama A & M University,"For Sports Fans, State School","$64,400 ","$100,300 ",32%
+903,Muskingum University,"Private School, Religious","$56,500 ","$100,300 ",10%
+903,Centenary University,"Private School, Religious","$60,400 ","$100,300 ",2%
+903,Trevecca Nazarene University,"Private School, Religious, Research University","$57,700 ","$100,300 ",4%
+903,University of Central Arkansas,"For Sports Fans, State School","$56,500 ","$100,300 ",10%
+903,Allen College,Private School,"$64,200 ","$100,300 ",0%
+909,Keene State College,State School,"$63,100 ","$100,200 ",7%
+910,Sweet Briar College,"Liberal Arts School, Private School","$55,500 ","$100,100 ",38%
+910,Radford University,"For Sports Fans, State School","$62,200 ","$100,100 ",8%
+912,Concord University,State School,"$57,600 ","$100,000 ",13%
+912,New College of Florida,"Liberal Arts School, State School","$55,700 ","$100,000 ",0%
+914,Bloomfield College,"Liberal Arts School, Private School, Religious","$59,400 ","$99,900 ",16%
+914,New York School of Interior Design,"Art, Private School","$61,300 ","$99,900 ",0%
+916,Hiram College,"Liberal Arts School, Private School","$58,100 ","$99,800 ",17%
+916,St. Thomas Aquinas College,Private School,"$61,400 ","$99,800 ",7%
+916,The Evergreen State College,State School,"$59,600 ","$99,800 ",0%
+916,Shenandoah University,"Private School, Religious, Research University","$63,800 ","$99,800 ",10%
+916,Freed-Hardeman University,"Private School, Religious","$56,000 ","$99,800 ",6%
+916,University of Memphis,"Research University, For Sports Fans, State School","$61,200 ","$99,800 ",14%
+916,Valdosta State University,"Research University, State School","$56,300 ","$99,800 ",6%
+916,Ball State University,"Research University, For Sports Fans, State School","$57,800 ","$99,800 ",6%
+916,Minnesota State University Moorhead,State School,"$57,400 ","$99,800 ",7%
+925,Southern Nazarene University,"Private School, Religious","$59,200 ","$99,700 ",3%
+925,Oklahoma City University,"Private School, Religious","$63,500 ","$99,700 ",4%
+925,Wells College,"Liberal Arts School, Private School","$58,400 ","$99,700 ",42%
+925,Metropolitan State University,State School,"$65,300 ","$99,700 ",16%
+925,Salem State University,State School,"$61,600 ","$99,700 ",7%
+930,Baldwin Wallace University,Private School,"$57,400 ","$99,600 ",11%
+930,Middle Tennessee State University,"Research University, Sober School, For Sports Fans, State School","$59,800 ","$99,600 ",11%
+930,Florida Agricultural and Mechanical University,"Research University, For Sports Fans, State School","$60,900 ","$99,600 ",9%
+933,Campbell University,"Private School, Religious, For Sports Fans","$59,500 ","$99,500 ",10%
+933,Methodist University,"Private School, Religious","$58,300 ","$99,500 ",8%
+933,University of Charleston,"Business, Private School","$58,000 ","$99,500 ",2%
+933,Agnes Scott College,"Liberal Arts School, Private School, Religious, Sober School","$59,900 ","$99,500 ",21%
+933,Lasell University,Private School,"$57,700 ","$99,500 ",1%
+938,East Stroudsburg University of Pennsylvania,State School,"$59,000 ","$99,400 ",12%
+939,Mayville State University,State School,"$54,700 ","$99,300 ",7%
+939,Ashland University,"Private School, Religious, Research University","$58,300 ","$99,300 ",8%
+939,University of the Virgin Islands,State School,"$56,900 ","$99,300 ",20%
+939,Baptist Health Sciences University,"Private School, Religious","$69,100 ","$99,300 ",3%
+939,University of Indianapolis,"Private School, Religious","$61,100 ","$99,300 ",6%
+939,Adams State University,State School,"$57,100 ","$99,300 ",3%
+939,Hope International University,"Private School, Religious","$53,400 ","$99,300 ",0%
+939,Notre Dame of Maryland University,"Private School, Religious","$60,600 ","$99,300 ",4%
+947,Cleveland Institute of Art,"Art, Private School","$55,700 ","$99,200 ",0%
+947,Augusta University,"Research University, State School","$56,700 ","$99,200 ",13%
+947,Belmont University,"Private School, Religious, For Sports Fans","$60,600 ","$99,200 ",4%
+947,Saint Ambrose University,"Private School, Religious","$59,700 ","$99,200 ",11%
+951,Lake Erie College,Private School,"$53,400 ","$99,000 ",5%
+951,University of North Carolina School of the Arts,"Art, State School","$59,400 ","$99,000 ",0%
+951,The College of Saint Rose,Private School,"$56,300 ","$99,000 ",3%
+951,Rockford University,Private School,"$58,900 ","$99,000 ",10%
+951,University of Central Missouri,State School,"$60,300 ","$99,000 ",18%
+951,American International College,"Private School, Research University","$67,900 ","$99,000 ",0%
+957,Daytona State College,State School,"$55,000 ","$98,900 ",4%
+957,Indiana Wesleyan University-Marion,"Private School, Religious","$59,900 ","$98,900 ",7%
+957,University of Southern Maine,State School,"$60,700 ","$98,900 ",9%
+960,The College of Saint Scholastica,"Private School, Religious","$68,600 ","$98,800 ",9%
+960,Ottawa University-Ottawa,"Private School, Religious","$62,600 ","$98,800 ",6%
+962,University of Arkansas at Little Rock,"Research University, For Sports Fans, State School","$59,800 ","$98,700 ",12%
+963,Chatham University,Private School,"$54,500 ","$98,600 ",11%
+963,University of Arkansas at Monticello,State School,"$55,900 ","$98,600 ",1%
+963,Western Colorado University,State School,"$61,700 ","$98,600 ",19%
+966,University of Central Oklahoma,State School,"$57,800 ","$98,500 ",11%
+966,Wheeling University,"Private School, Religious","$57,800 ","$98,500 ",3%
+966,Newberry College,"Private School, Religious","$53,400 ","$98,500 ",5%
+966,The University of West Florida,"Research University, State School","$58,200 ","$98,500 ",12%
+966,Saint Leo University,"Private School, Religious","$57,000 ","$98,500 ",8%
+966,Lakeview College of Nursing,Private School,"$68,400 ","$98,500 ",0%
+966,Albertus Magnus College,"Private School, Religious","$64,900 ","$98,500 ",2%
+966,Montana State University-Northern,State School,"$60,300 ","$98,500 ",1%
+974,Defiance College,"Private School, Religious","$52,900 ","$98,400 ",5%
+974,Kutztown University of Pennsylvania,State School,"$56,900 ","$98,400 ",11%
+976,CUNY Lehman College,State School,"$62,000 ","$98,300 ",10%
+976,Rhode Island College,State School,"$60,800 ","$98,300 ",6%
+976,Clark Atlanta University,"Private School, Religious, Research University","$58,300 ","$98,300 ",11%
+976,Fresno Pacific University,"Private School, Religious","$58,800 ","$98,300 ",2%
+976,Lake Superior State University,State School,"$59,100 ","$98,300 ",21%
+976,Washburn University,State School,"$59,300 ","$98,300 ",5%
+982,Murray State University,"For Sports Fans, State School","$57,500 ","$98,200 ",9%
+983,Northcentral University,"Private School, Research University","$59,900 ","$98,100 ",3%
+983,Texas A&M University-Texarkana,State School,"$50,900 ","$98,100 ",14%
+983,Southern Connecticut State University,State School,"$62,200 ","$98,100 ",7%
+986,Cardinal Stritch University,"Private School, Religious, Research University","$61,200 ","$98,000 ",3%
+986,Concordia University-Wisconsin,"Private School, Religious","$60,100 ","$98,000 ",6%
+986,LaGrange College,"Liberal Arts School, Private School, Religious","$52,300 ","$98,000 ",5%
+986,Fort Lewis College,"Liberal Arts School, State School","$59,200 ","$98,000 ",17%
+986,Oakland City University,"Private School, Religious","$52,600 ","$98,000 ",3%
+986,University of Maryland Eastern Shore,"Research University, For Sports Fans, State School","$59,300 ","$98,000 ",19%
+992,Alliance University,"Private School, Religious","$60,400 ","$97,900 ",3%
+992,Auburn University at Montgomery,State School,"$58,200 ","$97,900 ",16%
+992,Kansas City Art Institute,"Art, Private School","$55,000 ","$97,900 ",0%
+995,Southeastern Oklahoma State University,State School,"$55,700 ","$97,800 ",6%
+995,Avila University,"Private School, Religious","$56,700 ","$97,800 ",7%
+997,Eastern University,"Private School, Religious","$56,400 ","$97,700 ",3%
+997,University of Sioux Falls,"Private School, Religious","$56,600 ","$97,700 ",4%
+997,Covenant College,"Liberal Arts School, Private School, Religious","$57,000 ","$97,700 ",19%
+997,Bemidji State University,State School,"$61,500 ","$97,700 ",9%
+997,Union College (Kentucky),"Private School, Religious","$47,700 ","$97,700 ",1%
+1002,Emory & Henry College,"Liberal Arts School, Private School, Religious","$52,000 ","$97,600 ",5%
+1002,Western Kentucky University,"For Sports Fans, State School","$57,000 ","$97,600 ",9%
+1004,Saint Elizabeth University,"Private School, Religious","$62,100 ","$97,500 ",6%
+1004,Westfield State University,State School,"$60,700 ","$97,500 ",8%
+1006,University of Virginia's College at Wise,"Liberal Arts School, State School","$55,000 ","$97,400 ",4%
+1006,Grace College and Theological Seminary,"Private School, Religious","$55,500 ","$97,400 ",3%
+1006,Clarkson College,"Private School, Religious","$66,600 ","$97,400 ",0%
+1009,Texas Woman's University,"Research University, State School","$58,900 ","$97,300 ",5%
+1009,Indiana University-Kokomo,State School,"$55,200 ","$97,300 ",5%
+1011,Virginia State University,State School,"$59,300 ","$97,200 ",12%
+1011,Inter American University of Puerto Rico-San German,Private School,"$54,400 ","$97,200 ",25%
+1011,Ringling College of Art and Design,"Art, Private School","$63,700 ","$97,200 ",0%
+1011,University of the District of Columbia,State School,"$63,800 ","$97,200 ",17%
+1011,Clarke University,"Private School, Religious","$59,400 ","$97,200 ",8%
+1016,Wisconsin Lutheran College,"Private School, Religious","$63,900 ","$97,100 ",17%
+1016,North Park University,"Private School, Religious","$59,300 ","$97,100 ",9%
+1016,Olivet College,"Private School, Religious","$56,800 ","$97,100 ",10%
+1019,Heidelberg University,"Private School, Religious","$57,700 ","$97,000 ",7%
+1019,Alderson Broaddus University,"Private School, Religious","$59,500 ","$97,000 ",14%
+1019,Antioch University-Los Angeles,Private School,"$62,400 ","$97,000 ",0%
+1022,Pontifical Catholic University of Puerto Rico-Ponce,"Private School, Religious, Research University","$51,800 ","$96,900 ",20%
+1022,University of Wisconsin-Superior,State School,"$55,300 ","$96,900 ",7%
+1022,Angelo State University,State School,"$60,700 ","$96,900 ",10%
+1022,Piedmont University,"Private School, Religious","$53,500 ","$96,900 ",1%
+1022,Aurora University,Private School,"$60,500 ","$96,900 ",3%
+1027,Ohio Dominican University,"Private School, Religious","$58,600 ","$96,800 ",8%
+1027,University of Guam,State School,"$57,900 ","$96,800 ",17%
+1027,Dakota Wesleyan University,"Private School, Religious","$57,600 ","$96,800 ",4%
+1030,Point Park University,Private School,"$55,800 ","$96,700 ",4%
+1030,Georgia College & State University,State School,"$58,500 ","$96,700 ",10%
+1030,Southeastern University,"Private School, Religious","$52,400 ","$96,700 ",1%
+1030,University of South Alabama,"Research University, For Sports Fans, State School","$60,000 ","$96,700 ",14%
+1030,Delaware State University,"For Sports Fans, State School","$57,700 ","$96,700 ",10%
+1030,Southeast Missouri State University,"For Sports Fans, State School","$55,300 ","$96,700 ",13%
+1030,Lindenwood University,"Private School, Research University","$60,000 ","$96,700 ",10%
+1030,Spalding University,"Private School, Religious, Research University","$59,200 ","$96,700 ",0%
+1038,Western Oregon University,State School,"$57,900 ","$96,600 ",7%
+1038,University of Pittsburgh-Bradford,State School,"$52,900 ","$96,600 ",21%
+1038,Pennsylvania College of Technology,State School,"$67,100 ","$96,600 ",9%
+1038,University of Wisconsin-River Falls,State School,"$60,800 ","$96,600 ",13%
+1042,Wilberforce University,"Private School, Religious","$51,900 ","$96,500 ",10%
+1042,Missouri Western State University,State School,"$54,900 ","$96,500 ",9%
+1044,Chadron State College,State School,"$53,000 ","$96,400 ",4%
+1045,Inter American University of Puerto Rico-Bayamon,Private School,"$63,500 ","$96,300 ",32%
+1045,Jacksonville State University,"For Sports Fans, State School","$55,900 ","$96,300 ",8%
+1047,Northeastern State University,State School,"$56,800 ","$96,200 ",7%
+1047,Multnomah University,Private School,"$50,400 ","$96,200 ",6%
+1047,Roberts Wesleyan University,"Private School, Religious","$59,700 ","$96,200 ",4%
+1047,Union University,"Private School, Religious, Research University","$59,800 ","$96,200 ",5%
+1047,Flagler College,Private School,"$53,000 ","$96,200 ",0%
+1047,California Baptist University,"Private School, Religious","$63,100 ","$96,200 ",11%
+1047,Southwestern College (Kansas),"Private School, Religious","$61,300 ","$96,200 ",20%
+1054,Johnson & Wales University-Providence,Private School,"$59,700 ","$96,100 ",4%
+1054,Lubbock Christian University,"Private School, Religious","$58,100 ","$96,100 ",9%
+1054,Columbus State University,State School,"$53,500 ","$96,100 ",10%
+1054,Earlham College,"Liberal Arts School, Private School, Religious","$64,200 ","$96,100 ",32%
+1058,Dickinson State University,State School,"$60,500 ","$96,000 ",6%
+1058,Virginia Wesleyan University,"Liberal Arts School, Private School, Religious","$59,300 ","$96,000 ",11%
+1058,Francis Marion University,State School,"$56,700 ","$96,000 ",15%
+1058,Clayton State University,State School,"$60,600 ","$96,000 ",8%
+1058,Dominican University,"Private School, Religious","$61,600 ","$96,000 ",9%
+1063,Russell Sage College,Private School,"$54,700 ","$95,900 ",4%
+1063,University of South Carolina-Upstate,"For Sports Fans, State School","$58,300 ","$95,900 ",12%
+1063,Warner University,"Private School, Religious","$53,200 ","$95,900 ",2%
+1063,Saint Francis Medical Center College of Nursing,"Private School, Religious","$67,700 ","$95,900 ",0%
+1063,University of Southern Mississippi,"Research University, For Sports Fans, State School","$55,500 ","$95,900 ",10%
+1063,Kansas Wesleyan University,"Private School, Religious","$54,700 ","$95,900 ",9%
+1069,Empire State University,State School,"$59,100 ","$95,800 ",6%
+1069,University of Michigan-Flint,State School,"$58,700 ","$95,800 ",15%
+1069,Emporia State University,State School,"$55,400 ","$95,800 ",6%
+1072,Oklahoma Wesleyan University,"Private School, Religious","$55,000 ","$95,700 ",2%
+1072,College of Our Lady of the Elms,"Private School, Religious","$59,400 ","$95,700 ",9%
+1072,Drury University,"Private School, Religious","$54,800 ","$95,700 ",24%
+1072,Maryville University of Saint Louis,"Private School, Research University","$59,700 ","$95,700 ",4%
+1076,Guilford College,"Liberal Arts School, Private School, Religious","$54,200 ","$95,600 ",22%
+1076,Marshall University,"For Sports Fans, State School","$56,500 ","$95,600 ",10%
+1076,East Texas Baptist University,"Private School, Religious","$55,600 ","$95,600 ",5%
+1076,Palm Beach Atlantic University,"Private School, Religious","$58,400 ","$95,600 ",6%
+1076,Eureka College,"Private School, Religious","$56,300 ","$95,600 ",5%
+1076,Colorado Mesa University,State School,"$60,800 ","$95,600 ",9%
+1076,Northern Michigan University,State School,"$56,800 ","$95,600 ",11%
+1083,Fisk University,"Liberal Arts School, Private School","$57,100 ","$95,500 ",46%
+1083,Texas Wesleyan University,"Private School, Religious","$53,800 ","$95,500 ",5%
+1083,Texas Southern University,"Research University, For Sports Fans, State School","$58,800 ","$95,500 ",13%
+1083,College of Saint Mary,"Private School, Religious","$58,300 ","$95,500 ",2%
+1083,Cambridge College,Private School,"$52,200 ","$95,500 ",0%
+1088,Mount Vernon Nazarene University,"Private School, Religious","$55,200 ","$95,400 ",8%
+1088,The University of the Arts,"Art, Private School","$61,200 ","$95,400 ",0%
+1088,Georgian Court University,"Private School, Religious","$54,000 ","$95,400 ",4%
+1088,Morgan State University,"Research University, For Sports Fans, State School","$65,700 ","$95,400 ",25%
+1092,Kent State University at Stark,State School,"$54,100 ","$95,300 ",1%
+1092,Winthrop University,"For Sports Fans, State School","$55,900 ","$95,300 ",9%
+1092,Goshen College,"Private School, Religious","$56,100 ","$95,300 ",15%
+1092,Missouri Southern State University,State School,"$57,600 ","$95,300 ",8%
+1096,Geneva College,"Private School, Religious","$61,600 ","$95,200 ",28%
+1096,Saginaw Valley State University,State School,"$59,300 ","$95,200 ",12%
+1098,Caldwell University,"Private School, Religious","$54,000 ","$95,100 ",10%
+1098,Everglades University,Private School,"$57,700 ","$95,100 ",0%
+1098,Wayland Baptist University,"Private School, Religious","$59,900 ","$95,100 ",2%
+1098,Southern New Hampshire University,Private School,"$61,500 ","$95,100 ",9%
+1102,Illinois College,"Liberal Arts School, Private School, Religious","$57,200 ","$95,000 ",19%
+1102,Lyon College,"Liberal Arts School, Private School, Religious","$56,600 ","$95,000 ",31%
+1102,University of Northwestern-St Paul,"Private School, Religious","$60,100 ","$95,000 ",11%
+1102,Kentucky Wesleyan College,"Private School, Religious","$53,400 ","$95,000 ",18%
+1106,Northwestern Oklahoma State University,State School,"$53,800 ","$94,900 ",8%
+1106,Misericordia University,"Private School, Religious","$59,700 ","$94,900 ",3%
+1106,Howard Payne University,"Private School, Religious","$56,200 ","$94,900 ",8%
+1106,Hardin-Simmons University,"Private School, Religious","$59,700 ","$94,900 ",7%
+1106,Arkansas State University,"For Sports Fans, State School","$56,000 ","$94,900 ",4%
+1106,Hood College,Private School,"$61,100 ","$94,900 ",25%
+1112,University of Dubuque,"Private School, Religious","$56,600 ","$94,800 ",8%
+1113,University of Mary,"Private School, Religious","$60,100 ","$94,700 ",7%
+1114,Cedar Crest College,Private School,"$61,200 ","$94,600 ",8%
+1115,Eastern Kentucky University,"For Sports Fans, State School","$57,100 ","$94,500 ",6%
+1116,CUNY Medgar Evers College,State School,"$62,300 ","$94,400 ",37%
+1116,SUNY at Fredonia,State School,"$56,500 ","$94,400 ",11%
+1116,Florida Institute of Technology-Online,"Business, Private School","$57,300 ","$94,400 ",10%
+1116,Henderson State University,State School,"$53,900 ","$94,400 ",7%
+1116,Upper Iowa University,Private School,"$56,100 ","$94,400 ",2%
+1121,Peirce College,Private School,"$57,700 ","$94,300 ",9%
+1121,Mercyhurst University,"Private School, Religious","$59,800 ","$94,300 ",10%
+1121,University of South Carolina Aiken,State School,"$52,800 ","$94,300 ",8%
+1121,University of Houston-Victoria,State School,"$59,400 ","$94,300 ",8%
+1121,Anderson University (Indiana),"Private School, Religious","$59,200 ","$94,300 ",11%
+1126,Antioch University,Private School,"$51,400 ","$94,200 ",0%
+1126,Indiana University-Northwest,State School,"$55,000 ","$94,200 ",9%
+1126,University of Arkansas for Medical Sciences,State School,"$64,300 ","$94,200 ",4%
+1126,Nebraska Wesleyan University,"Private School, Religious","$59,800 ","$94,200 ",15%
+1130,Montreat College,"Private School, Religious","$55,000 ","$94,100 ",26%
+1130,Austin Peay State University,"For Sports Fans, State School","$56,100 ","$94,100 ",10%
+1130,St. Thomas University,"Private School, Religious","$57,700 ","$94,100 ",4%
+1130,Fort Hays State University,State School,"$57,900 ","$94,100 ",8%
+1130,Fisher College,Private School,"$57,200 ","$94,100 ",6%
+1130,Thomas College,Private School,"$57,100 ","$94,100 ",7%
+1130,Husson University,Private School,"$54,400 ","$94,100 ",1%
+1137,Ottawa University-Milwaukee,"Private School, Religious","$58,700 ","$94,000 ",27%
+1137,Mount Marty University,"Private School, Religious","$56,300 ","$94,000 ",2%
+1139,Meredith College,"Liberal Arts School, Private School","$56,600 ","$93,900 ",14%
+1139,SUNY Buffalo State University,State School,"$55,800 ","$93,900 ",7%
+1141,William Jessup University,"Private School, Religious","$56,200 ","$93,800 ",9%
+1142,University of Saint Francis-Fort Wayne,"Private School, Religious","$57,000 ","$93,700 ",6%
+1143,Alverno College,"Private School, Religious","$56,100 ","$93,600 ",2%
+1143,Morningside University,"Private School, Religious","$57,500 ","$93,600 ",7%
+1145,The University of Texas Rio Grande Valley,"Research University, For Sports Fans, State School","$57,400 ","$93,500 ",19%
+1145,Indiana University-East,State School,"$60,300 ","$93,500 ",19%
+1145,Indiana University-South Bend,State School,"$57,800 ","$93,500 ",8%
+1148,Massachusetts College of Liberal Arts,"Liberal Arts School, State School","$57,200 ","$93,400 ",12%
+1148,Stephens College,Private School,"$55,800 ","$93,400 ",7%
+1150,Viterbo University,"Private School, Religious","$58,300 ","$93,300 ",2%
+1150,Troy University,"For Sports Fans, State School","$56,300 ","$93,300 ",7%
+1150,Brescia University,"Private School, Religious","$50,900 ","$93,300 ",8%
+1153,Schreiner University,"Liberal Arts School, Private School, Religious","$52,700 ","$93,200 ",15%
+1153,Huston-Tillotson University,"Private School, Religious","$53,000 ","$93,200 ",10%
+1153,Athens State University,State School,"$59,300 ","$93,200 ",5%
+1153,MidAmerica Nazarene University,"Private School, Religious","$62,200 ","$93,200 ",4%
+1153,Northwestern State University of Louisiana,"For Sports Fans, State School","$56,100 ","$93,200 ",5%
+1158,Ursuline College,"Private School, Religious","$57,100 ","$93,100 ",2%
+1158,Los Angeles Pacific University,"Private School, Religious","$58,800 ","$93,100 ",0%
+1158,Brenau University,Private School,"$58,000 ","$93,100 ",1%
+1161,Eastern New Mexico University-Main Campus,State School,"$55,700 ","$93,000 ",4%
+1161,University of Southern Indiana,State School,"$57,800 ","$93,000 ",8%
+1161,Arkansas Tech University,State School,"$57,200 ","$93,000 ",7%
+1161,Siena Heights University,"Private School, Religious","$55,700 ","$93,000 ",7%
+1165,Nazareth College,Private School,"$54,400 ","$92,900 ",5%
+1165,Fairmont State University,State School,"$52,500 ","$92,900 ",7%
+1165,Fontbonne University,"Private School, Religious","$56,500 ","$92,900 ",10%
+1165,Iowa Wesleyan University,"Private School, Religious","$54,500 ","$92,900 ",9%
+1169,Seton Hill University,"Private School, Religious","$56,400 ","$92,800 ",11%
+1170,Notre Dame College,"Private School, Religious","$56,100 ","$92,700 ",6%
+1170,Malone University,"Private School, Religious","$58,100 ","$92,700 ",9%
+1170,Wingate University,Private School,"$53,100 ","$92,700 ",11%
+1170,SUNY College of Agriculture and Technology at Cobleskill,State School,"$52,200 ","$92,700 ",6%
+1170,Midwestern Baptist Theological Seminary,"Private School, Religious","$49,800 ","$92,700 ",0%
+1175,Tiffin University,Private School,"$55,200 ","$92,600 ",3%
+1175,Hollins University,"Liberal Arts School, Private School","$51,600 ","$92,600 ",8%
+1175,Coastal Carolina University,"For Sports Fans, State School","$56,700 ","$92,600 ",14%
+1175,Valencia College,State School,"$60,700 ","$92,600 ",8%
+1175,University of the Ozarks,"Private School, Religious","$55,100 ","$92,600 ",16%
+1175,San Diego Christian College,"Private School, Religious","$58,400 ","$92,600 ",2%
+1181,Missouri Baptist University,"Private School, Religious","$55,900 ","$92,500 ",3%
+1182,Lourdes University,"Private School, Religious","$58,000 ","$92,400 ",3%
+1182,West Liberty University,State School,"$54,200 ","$92,400 ",7%
+1182,Southwestern Assemblies of God University,"Private School, Religious","$52,100 ","$92,400 ",0%
+1182,Humphreys University-Stockton and Modesto Campuses,Private School,"$55,800 ","$92,400 ",0%
+1186,University of North Carolina at Greensboro,"Research University, For Sports Fans, State School","$55,800 ","$92,300 ",12%
+1186,University of the Incarnate Word,"Private School, Religious, For Sports Fans","$59,200 ","$92,300 ",8%
+1188,Bennett College,"Private School, Religious","$51,900 ","$92,100 ",25%
+1188,Southern Arkansas University Main Campus,State School,"$51,800 ","$92,100 ",14%
+1190,Bastyr University,Private School,"$60,100 ","$92,000 ",0%
+1190,Bellevue College,State School,"$67,100 ","$92,000 ",13%
+1190,Texas A & M International University,State School,"$51,200 ","$92,000 ",13%
+1190,Miami Dade College,State School,"$58,400 ","$92,000 ",3%
+1194,Milwaukee Institute of Art & Design,"Art, Private School","$56,600 ","$91,900 ",0%
+1194,Montana State University Billings,State School,"$54,600 ","$91,900 ",4%
+1194,Coppin State University,"For Sports Fans, State School","$58,000 ","$91,900 ",7%
+1197,Charleston Southern University,"Private School, Religious, For Sports Fans","$53,100 ","$91,800 ",9%
+1197,Marian University (Indiana),"Private School, Religious","$63,100 ","$91,800 ",10%
+1197,Mississippi College,"Private School, Religious","$55,800 ","$91,800 ",16%
+1200,Thiel College,"Liberal Arts School, Private School, Religious","$50,400 ","$91,700 ",15%
+1200,Southwestern Adventist University,"Private School, Religious","$52,800 ","$91,700 ",12%
+1200,Florida SouthWestern State College,State School,"$54,300 ","$91,700 ",2%
+1203,Granite State College,State School,"$57,400 ","$91,600 ",2%
+1203,New Mexico Highlands University,State School,"$53,700 ","$91,600 ",6%
+1203,Bluefield State University,State School,"$62,900 ","$91,600 ",1%
+1203,Johnson & Wales University-Online,"Business, Private School","$56,500 ","$91,600 ",1%
+1203,Georgia Gwinnett College,State School,"$58,700 ","$91,600 ",22%
+1203,University of Wisconsin-Green Bay,"For Sports Fans, State School","$58,000 ","$91,600 ",8%
+1203,Southern Adventist University,"Private School, Religious","$59,000 ","$91,600 ",10%
+1203,Shorter University,"Private School, Religious","$55,500 ","$91,600 ",6%
+1203,University of Hawaii-West Oahu,State School,"$54,700 ","$91,600 ",0%
+1203,Baker College,Private School,"$59,400 ","$91,600 ",8%
+1213,Warren Wilson College,"Liberal Arts School, Private School","$46,500 ","$91,500 ",13%
+1213,SUNY College of Technology at Canton,State School,"$51,900 ","$91,500 ",6%
+1213,Norfolk State University,"For Sports Fans, State School","$56,300 ","$91,500 ",19%
+1213,Herzing University-Brookfield,Private School,"$63,600 ","$91,500 ",1%
+1213,Huntingdon College,"Private School, Religious","$50,000 ","$91,500 ",12%
+1218,Greensboro College,"Private School, Religious","$59,200 ","$91,400 ",5%
+1219,Adrian College,"Private School, Religious","$54,200 ","$91,300 ",11%
+1220,Bluffton University,"Private School, Religious","$55,400 ","$91,100 ",6%
+1220,Eastern Mennonite University,"Private School, Religious","$56,300 ","$91,100 ",9%
+1220,Tennessee State University,"Research University, For Sports Fans, State School","$60,500 ","$91,100 ",17%
+1220,Amridge University,"Private School, Religious","$54,000 ","$91,100 ",0%
+1224,Pfeiffer University,"Private School, Religious","$56,400 ","$91,000 ",6%
+1224,Chicago State University,"For Sports Fans, State School","$54,100 ","$91,000 ",12%
+1224,Faulkner University,"Business, Private School, Religious","$49,800 ","$91,000 ",2%
+1227,Western Carolina University,"For Sports Fans, State School","$57,400 ","$90,900 ",8%
+1227,Lincoln University (Pennsylvania),State School,"$61,800 ","$90,900 ",11%
+1229,Central Methodist University-College of Liberal Arts and Sciences,"Private School, Religious","$57,000 ","$90,800 ",20%
+1230,Columbus College of Art and Design,"Art, Private School","$56,900 ","$90,700 ",0%
+1230,Western New Mexico University,State School,"$56,500 ","$90,700 ",3%
+1230,Lander University,State School,"$51,600 ","$90,700 ",8%
+1230,Columbia College (Missouri),"Private School, Religious","$57,200 ","$90,700 ",4%
+1234,Our Lady of the Lake University,"Private School, Religious","$54,100 ","$90,600 ",5%
+1234,Texas Lutheran University,"Private School, Religious","$58,600 ","$90,600 ",11%
+1234,Mount Mercy University,"Private School, Religious","$62,300 ","$90,600 ",5%
+1237,Oklahoma Panhandle State University,State School,"$53,300 ","$90,500 ",9%
+1237,East Tennessee State University,"Research University, For Sports Fans, State School","$54,500 ","$90,500 ",10%
+1237,Maryville College,"Liberal Arts School, Private School, Religious","$54,800 ","$90,500 ",11%
+1240,Gallaudet University,Private School,"$52,300 ","$90,200 ",5%
+1241,Belmont Abbey College,"Private School, Religious","$58,300 ","$90,100 ",7%
+1241,Midland University,"Private School, Religious","$57,200 ","$90,100 ",3%
+1243,Mount Mary University,"Private School, Religious","$56,000 ","$90,000 ",3%
+1243,Santa Fe College,State School,"$59,000 ","$90,000 ",7%
+1243,State College of Florida-Manatee-Sarasota,State School,"$61,500 ","$90,000 ",4%
+1243,University of West Alabama,State School,"$55,600 ","$90,000 ",2%
+1243,Southwest Minnesota State University,State School,"$57,700 ","$90,000 ",3%
+1243,Grand View University,"Private School, Religious","$57,300 ","$90,000 ",5%
+1249,Keuka College,Private School,"$54,500 ","$89,900 ",3%
+1249,Averett University,"Private School, Religious","$52,600 ","$89,900 ",3%
+1249,Universidad Adventista de las Antillas,"Private School, Religious","$55,100 ","$89,900 ",7%
+1249,Huntington University,"Private School, Religious","$50,200 ","$89,900 ",3%
+1249,Wilmington University,"Private School, Research University","$60,200 ","$89,900 ",13%
+1254,Regent University,"Private School, Research University","$54,100 ","$89,800 ",2%
+1254,Inter American University of Puerto Rico-Metro,"Private School, Research University","$55,100 ","$89,800 ",16%
+1254,College of Central Florida,State School,"$52,700 ","$89,800 ",7%
+1257,Catawba College,Private School,"$54,200 ","$89,700 ",11%
+1257,Seminole State College of Florida,State School,"$60,200 ","$89,700 ",7%
+1257,Louisiana State University-Shreveport,"Business, State School","$57,800 ","$89,700 ",2%
+1257,Bethany College (Kansas),"Private School, Religious","$45,600 ","$89,700 ",16%
+1261,Rogers State University,State School,"$54,100 ","$89,600 ",7%
+1261,Warner Pacific University,"Private School, Religious","$58,700 ","$89,600 ",7%
+1261,Cazenovia College,Private School,"$50,700 ","$89,600 ",2%
+1261,University of North Carolina at Asheville,"Liberal Arts School, For Sports Fans, State School","$56,200 ","$89,600 ",18%
+1261,Bethel University (Indiana),"Private School, Religious","$57,300 ","$89,600 ",5%
+1261,Concordia University-Chicago,"Private School, Religious","$53,600 ","$89,600 ",1%
+1261,Arizona Christian University,"Private School, Religious","$55,000 ","$89,600 ",8%
+1268,University of Science and Arts of Oklahoma,"Liberal Arts School, State School","$50,400 ","$89,500 ",15%
+1268,Ottawa University-Online,"Private School, Religious","$57,400 ","$89,500 ",7%
+1268,Erskine College,"Liberal Arts School, Private School, Religious","$54,900 ","$89,500 ",10%
+1268,Louisiana Christian University,"Private School, Religious","$54,600 ","$89,500 ",6%
+1272,University of Montevallo,State School,"$49,900 ","$89,400 ",6%
+1273,College of the Ozarks,"Private School, Religious, Sober School","$50,400 ","$89,300 ",14%
+1274,Mount Saint Joseph University,"Private School, Religious","$56,400 ","$89,200 ",6%
+1274,Glenville State University,State School,"$52,200 ","$89,200 ",3%
+1274,Limestone University,Private School,"$52,500 ","$89,200 ",12%
+1274,Southern Wesleyan University,"Private School, Religious","$53,900 ","$89,200 ",5%
+1274,Spring Arbor University,"Private School, Religious","$52,400 ","$89,200 ",1%
+1279,Tusculum University,"Private School, Religious","$51,900 ","$89,100 ",3%
+1279,Aquinas College,"Private School, Religious","$54,200 ","$89,100 ",9%
+1281,Eastern Oregon University,State School,"$57,100 ","$89,000 ",6%
+1281,Wayne State College,State School,"$51,700 ","$89,000 ",9%
+1281,Vincennes University,State School,"$53,700 ","$89,000 ",3%
+1284,University of Pittsburgh-Greensburg,"Liberal Arts School, State School","$55,800 ","$88,900 ",28%
+1284,Milligan University,"Private School, Religious","$53,100 ","$88,900 ",13%
+1284,Morehead State University,"For Sports Fans, State School","$53,700 ","$88,900 ",8%
+1287,North Carolina Wesleyan University,"Private School, Religious","$54,200 ","$88,800 ",7%
+1287,University of North Alabama,State School,"$53,400 ","$88,800 ",5%
+1289,Oklahoma Baptist University,"Private School, Religious","$54,100 ","$88,700 ",14%
+1289,Houghton University,"Liberal Arts School, Private School, Religious","$55,100 ","$88,700 ",15%
+1289,Hannibal-LaGrange University,"Private School, Religious","$51,400 ","$88,700 ",3%
+1289,University of the Cumberlands,"Private School, Religious, Research University","$51,700 ","$88,700 ",29%
+1289,Dillard University,"Liberal Arts School, Private School, Religious","$55,400 ","$88,700 ",23%
+1294,East Central University,State School,"$54,800 ","$88,600 ",16%
+1294,Winston-Salem State University,State School,"$59,700 ","$88,600 ",9%
+1294,St. Andrews University,"Business, Private School, Religious","$49,900 ","$88,600 ",9%
+1294,Herzing University-Madison,Private School,"$63,300 ","$88,600 ",4%
+1294,Florida State College at Jacksonville,State School,"$56,500 ","$88,600 ",5%
+1294,Judson University,"Private School, Religious","$55,000 ","$88,600 ",2%
+1294,Kentucky State University,State School,"$53,700 ","$88,600 ",8%
+1301,College of Biblical Studies-Houston,"Private School, Religious","$55,900 ","$88,500 ",0%
+1302,Wilmington College,"Private School, Religious","$52,800 ","$88,400 ",6%
+1302,Barton College,"Private School, Religious","$51,200 ","$88,400 ",9%
+1302,Albany State University,State School,"$52,500 ","$88,400 ",4%
+1302,Quincy University,"Private School, Religious","$52,400 ","$88,400 ",13%
+1302,Madonna University,"Private School, Religious","$56,900 ","$88,400 ",2%
+1307,Liberty University,"Private School, Religious, Research University, For Sports Fans","$57,000 ","$88,300 ",4%
+1307,Oakwood University,"Private School, Religious","$57,300 ","$88,300 ",24%
+1307,Southwest Baptist University,"Private School, Religious","$52,500 ","$88,300 ",7%
+1310,Castleton University,State School,"$52,800 ","$88,200 ",6%
+1311,Colorado Christian University,"Private School, Religious","$60,700 ","$88,000 ",3%
+1311,Evangel University,"Private School, Religious","$51,800 ","$88,000 ",7%
+1313,Salem College,"Liberal Arts School, Private School, Religious","$49,800 ","$87,900 ",17%
+1313,Alvernia University,"Private School, Religious","$54,800 ","$87,900 ",3%
+1315,Bluefield University,"Private School, Religious","$54,200 ","$87,800 ",31%
+1316,West Virginia State University,"Liberal Arts School, State School","$50,000 ","$87,700 ",7%
+1317,Culinary Institute of America,Private School,"$55,500 ","$87,600 ",0%
+1317,University of Maine at Presque Isle,State School,"$50,700 ","$87,600 ",3%
+1319,University of Massachusetts Global,State School,"$55,400 ","$87,500 ",1%
+1319,Central Methodist University-College of Graduate and Extended Studies,"Private School, Religious","$49,400 ","$87,500 ",5%
+1319,Northern State University,State School,"$54,300 ","$87,500 ",17%
+1319,Governors State University,State School,"$57,000 ","$87,500 ",12%
+1319,Blackburn College,"Private School, Religious","$54,700 ","$87,500 ",19%
+1319,Life Pacific University,"Private School, Religious","$53,900 ","$87,500 ",0%
+1325,University of Rio Grande,Private School,"$52,900 ","$87,400 ",5%
+1325,The University of Tennessee-Martin,"For Sports Fans, State School","$56,400 ","$87,400 ",6%
+1325,Gordon State College,State School,"$54,800 ","$87,400 ",9%
+1328,Paul Quinn College,"Private School, Religious","$51,100 ","$87,300 ",0%
+1328,Manhattan Christian College,"Private School, Religious","$49,500 ","$87,300 ",0%
+1330,Jackson State University,"Research University, For Sports Fans, State School","$54,000 ","$87,100 ",16%
+1331,Crown College,"Private School, Religious","$55,400 ","$87,000 ",1%
+1332,North Central University,"Private School, Religious","$57,300 ","$86,900 ",1%
+1332,Missouri Valley College,"Private School, Religious","$51,200 ","$86,900 ",7%
+1332,Tabor College,"Private School, Religious","$52,200 ","$86,900 ",9%
+1335,Trine University-Regional/Non-Traditional Campuses,Private School,"$48,600 ","$86,800 ",18%
+1336,Chestnut Hill College,"Private School, Religious","$53,100 ","$86,700 ",10%
+1336,Calumet College of Saint Joseph,"Private School, Religious","$52,600 ","$86,700 ",1%
+1336,Rochester University,"Private School, Religious","$49,500 ","$86,700 ",1%
+1339,Life University,Private School,"$56,500 ","$86,600 ",14%
+1340,Davis & Elkins College,"Liberal Arts School, Private School, Religious","$47,100 ","$86,500 ",6%
+1340,University of Mobile,"Private School, Religious","$50,900 ","$86,500 ",3%
+1340,Springfield College,Private School,"$56,400 ","$86,500 ",4%
+1340,University of Pikeville,"Liberal Arts School, Private School, Religious","$50,500 ","$86,500 ",8%
+1344,Elizabeth City State University,State School,"$54,300 ","$86,400 ",14%
+1344,McPherson College,"Private School, Religious","$53,700 ","$86,400 ",7%
+1344,University of Maine at Fort Kent,State School,"$61,300 ","$86,400 ",4%
+1347,Carlow University,"Private School, Religious","$56,500 ","$86,300 ",7%
+1347,Lakeland University,"Business, Private School, Religious","$60,200 ","$86,300 ",7%
+1347,Georgia Southwestern State University,State School,"$54,600 ","$86,300 ",6%
+1347,Davenport University,"Business, Private School","$58,400 ","$86,300 ",14%
+1351,Northwest Florida State College,State School,"$61,900 ","$86,200 ",3%
+1351,Palm Beach State College,State School,"$57,200 ","$86,200 ",3%
+1353,Ottawa University-Phoenix,"Private School, Religious","$53,700 ","$86,100 ",25%
+1353,Friends University,Private School,"$55,400 ","$86,100 ",5%
+1353,University of Maine at Augusta,State School,"$54,100 ","$86,100 ",15%
+1356,Minot State University,State School,"$57,000 ","$86,000 ",7%
+1357,University of Northwestern Ohio,Private School,"$53,000 ","$85,900 ",1%
+1358,Indiana University-Southeast,State School,"$52,100 ","$85,800 ",10%
+1359,Keystone College,Private School,"$49,600 ","$85,700 ",13%
+1359,Carson-Newman University,"Private School, Religious","$53,800 ","$85,700 ",4%
+1359,Asbury University,Private School,"$50,400 ","$85,700 ",4%
+1362,Lees-McRae College,"Private School, Religious","$52,000 ","$85,600 ",21%
+1362,Northern Vermont University,State School,"$50,200 ","$85,600 ",9%
+1362,Lewis-Clark State College,State School,"$60,000 ","$85,600 ",5%
+1365,Cornerstone University,"Private School, Religious","$53,500 ","$85,500 ",3%
+1366,Lee University,"Private School, Religious","$55,000 ","$85,400 ",3%
+1366,University of Hawaii at Hilo,State School,"$55,300 ","$85,400 ",11%
+1366,Delta State University,State School,"$49,900 ","$85,400 ",5%
+1366,Kentucky Christian University,"Private School, Religious","$51,700 ","$85,400 ",0%
+1370,Gardner-Webb University,"Private School, Religious, Research University, For Sports Fans","$53,200 ","$85,300 ",6%
+1370,Buena Vista University,"Private School, Religious","$52,700 ","$85,300 ",4%
+1372,Maranatha Baptist University,"Private School, Religious","$56,700 ","$85,200 ",3%
+1372,Tennessee Wesleyan University,"Private School, Religious","$54,800 ","$85,200 ",2%
+1374,Moore College of Art and Design,"Art, Private School","$50,900 ","$85,100 ",0%
+1375,Hodges University,Private School,"$51,800 ","$85,000 ",9%
+1376,Savannah State University,"For Sports Fans, State School","$52,400 ","$84,900 ",17%
+1376,Simpson University,"Private School, Religious","$54,200 ","$84,900 ",3%
+1376,Lincoln University (Missouri),State School,"$47,100 ","$84,900 ",6%
+1379,La Roche University,"Private School, Religious","$55,000 ","$84,800 ",13%
+1379,Thomas University,Private School,"$50,200 ","$84,800 ",3%
+1379,Maine College of Art & Design,Private School,"$51,900 ","$84,800 ",0%
+1382,Marywood University,"Private School, Religious","$53,200 ","$84,700 ",5%
+1383,Cincinnati College of Mortuary Science,Private School,"$47,600 ","$84,500 ",0%
+1384,Pensacola State College,State School,"$52,200 ","$84,400 ",9%
+1384,Calvary University,"Private School, Religious","$50,700 ","$84,400 ",0%
+1386,Art Academy of Cincinnati,"Art, Private School","$47,000 ","$84,200 ",0%
+1386,Midland College,State School,"$53,200 ","$84,200 ",3%
+1386,Polk State College,State School,"$53,800 ","$84,200 ",1%
+1389,Hilbert College,"Private School, Religious","$51,900 ","$84,100 ",1%
+1389,Mars Hill University,Private School,"$52,400 ","$84,100 ",8%
+1389,Martin Luther College,"Private School, Religious","$49,600 ","$84,100 ",0%
+1392,Valley City State University,State School,"$49,400 ","$84,000 ",0%
+1392,Metropolitan College of New York,Private School,"$54,500 ","$84,000 ",0%
+1392,Alabama State University,"For Sports Fans, State School","$49,500 ","$84,000 ",20%
+1395,Sul Ross State University,State School,"$49,300 ","$83,900 ",9%
+1396,Bryan College-Dayton,"Private School, Religious","$49,300 ","$83,700 ",4%
+1396,Dalton State College,State School,"$54,500 ","$83,700 ",11%
+1396,St Petersburg College,State School,"$58,800 ","$83,700 ",11%
+1396,Moody Bible Institute,"Private School, Religious","$54,800 ","$83,700 ",0%
+1396,University of Maine at Farmington,State School,"$54,500 ","$83,700 ",7%
+1401,Union Institute & University,"Private School, Research University","$52,700 ","$83,600 ",0%
+1401,University of Arkansas at Pine Bluff,"For Sports Fans, State School","$53,900 ","$83,600 ",18%
+1401,Briar Cliff University,"Private School, Religious","$56,400 ","$83,600 ",12%
+1401,Bethel College-North Newton,"Liberal Arts School, Private School, Religious","$54,600 ","$83,600 ",6%
+1405,Middle Georgia State University,State School,"$53,700 ","$83,400 ",15%
+1406,SUNY Brockport,State School,"$57,900 ","$83,200 ",8%
+1407,Talladega College,"Private School, Religious","$44,300 ","$83,100 ",19%
+1408,Central Christian College of Kansas,"Private School, Religious","$53,500 ","$83,000 ",2%
+1409,Saint Mary-of-the-Woods College,"Private School, Religious","$53,600 ","$82,900 ",1%
+1410,Medaille University,Private School,"$53,300 ","$82,800 ",4%
+1410,Mid-America Christian University,"Private School, Religious","$50,600 ","$82,800 ",4%
+1410,Paine College,"Liberal Arts School, Private School, Religious","$44,600 ","$82,800 ",19%
+1410,Indian River State College,State School,"$54,100 ","$82,800 ",5%
+1410,Berea College,"Liberal Arts School, Private School","$52,800 ","$82,800 ",20%
+1415,Belhaven University,"Private School, Religious","$50,400 ","$82,700 ",2%
+1416,William Penn University,"Private School, Religious","$57,300 ","$82,600 ",10%
+1417,Peru State College,State School,"$54,300 ","$82,400 ",6%
+1418,North Carolina Central University,"For Sports Fans, State School","$54,800 ","$82,300 ",9%
+1419,Mount Aloysius College,"Private School, Religious","$52,000 ","$82,100 ",7%
+1420,Central State University,State School,"$51,000 ","$82,000 ",8%
+1420,Mary Baldwin University,"Private School, Religious","$49,100 ","$82,000 ",4%
+1420,University of Arkansas-Fort Smith,State School,"$52,300 ","$82,000 ",13%
+1423,Anderson University (South Carolina),"Private School, Religious","$52,700 ","$81,900 ",3%
+1423,Reinhardt University,"Private School, Religious","$51,400 ","$81,900 ",6%
+1425,University of North Carolina at Pembroke,State School,"$50,400 ","$81,800 ",9%
+1425,Concordia University Ann Arbor,"Private School, Religious","$44,800 ","$81,800 ",7%
+1427,Lancaster Bible College,Private School,"$55,000 ","$81,700 ",0%
+1428,Johnson & Wales University-Charlotte,Private School,"$50,500 ","$81,500 ",0%
+1429,University of Valley Forge,"Private School, Religious","$48,300 ","$81,400 ",0%
+1430,Bethune-Cookman University,"Liberal Arts School, Private School, Religious, For Sports Fans","$54,000 ","$81,300 ",7%
+1431,Black Hills State University,State School,"$52,000 ","$81,200 ",13%
+1431,Grambling State University,"For Sports Fans, State School","$55,100 ","$81,200 ",15%
+1433,Midway University,"Private School, Religious","$51,100 ","$81,000 ",3%
+1434,Chowan University,"Private School, Religious","$51,200 ","$80,900 ",7%
+1434,Alcorn State University,"For Sports Fans, State School","$57,700 ","$80,900 ",27%
+1436,Brewton-Parker College,"Private School, Religious","$44,700 ","$80,800 ",10%
+1437,Broward College,State School,"$59,400 ","$80,600 ",9%
+1438,Ohio State University-Lima Campus,State School,"$49,600 ","$80,400 ",6%
+1438,Philander Smith College,"Liberal Arts School, Private School, Religious","$45,200 ","$80,400 ",18%
+1440,Lincoln Memorial University,Private School,"$54,200 ","$80,300 ",6%
+1441,William Carey University,"Private School, Religious","$52,800 ","$80,200 ",6%
+1442,Florida Memorial University,"Private School, Religious","$47,900 ","$80,100 ",15%
+1443,Tougaloo College,"Liberal Arts School, Private School, Religious","$45,700 ","$80,000 ",24%
+1444,University of Mount Olive,"Private School, Religious","$54,500 ","$79,900 ",4%
+1444,College of Coastal Georgia,State School,"$52,800 ","$79,900 ",6%
+1444,Lincoln Christian University,"Private School, Religious","$49,600 ","$79,900 ",0%
+1444,Harris-Stowe State University,State School,"$47,400 ","$79,900 ",22%
+1448,Bay Path University,Private School,"$56,700 ","$79,800 ",4%
+1449,Central Baptist College,"Private School, Religious","$44,400 ","$79,700 ",8%
+1450,Heritage University,Private School,"$52,600 ","$79,500 ",5%
+1451,Livingstone College,"Private School, Religious","$46,200 ","$79,000 ",20%
+1452,William Woods University,"Private School, Religious","$51,400 ","$78,900 ",2%
+1453,The University of Montana-Western,State School,"$47,000 ","$78,700 ",5%
+1454,Universidad Ana G. Mendez-Carolina Campus,Private School,"$45,300 ","$78,600 ",8%
+1455,Fort Valley State University,State School,"$45,400 ","$78,500 ",15%
+1456,Nazarene Bible College,"Private School, Religious","$47,800 ","$77,900 ",0%
+1457,Clarks Summit University,"Private School, Religious","$49,800 ","$77,800 ",2%
+1457,Fayetteville State University,State School,"$49,200 ","$77,800 ",5%
+1457,Concordia University-Nebraska,"Private School, Religious","$51,200 ","$77,800 ",7%
+1460,Converse University,Private School,"$51,400 ","$77,700 ",7%
+1461,Louisiana State University-Alexandria,"Liberal Arts School, State School","$47,100 ","$77,600 ",5%
+1462,Keiser University-Ft Lauderdale,Private School,"$57,200 ","$77,500 ",5%
+1463,Le Moyne-Owen College,"Private School, Religious","$53,800 ","$77,400 ",22%
+1464,Benedict College,"Private School, Religious","$50,000 ","$77,300 ",18%
+1465,Hallmark University,Private School,"$47,800 ","$77,100 ",35%
+1466,Lane College,"Private School, Religious","$48,900 ","$77,000 ",24%
+1467,Northland College,"Liberal Arts School, Private School, Religious","$46,200 ","$76,700 ",28%
+1468,Saint Augustine's University,"Private School, Religious","$49,300 ","$76,600 ",24%
+1468,Trinity Bible College and Graduate School,"Private School, Religious","$47,700 ","$76,600 ",0%
+1468,Bethel University (Tennessee),"Private School, Religious","$48,800 ","$76,600 ",2%
+1471,Mississippi University for Women,State School,"$51,100 ","$76,500 ",3%
+1472,Prescott College,Private School,"$54,400 ","$76,300 ",0%
+1473,Columbia College (South Carolina),"Private School, Religious","$52,200 ","$76,200 ",3%
+1474,West Virginia University at Parkersburg,State School,"$46,100 ","$76,100 ",2%
+1475,King University,"Private School, Religious","$52,300 ","$75,500 ",6%
+1476,Martin University,"Liberal Arts School, Private School","$42,400 ","$75,300 ",0%
+1476,Campbellsville University,"Private School, Religious","$49,200 ","$75,300 ",38%
+1478,Cheyney University of Pennsylvania,"Liberal Arts School, State School","$48,000 ","$74,900 ",16%
+1478,Ozark Christian College,"Private School, Religious","$45,500 ","$74,900 ",0%
+1480,Ohio Christian University,"Private School, Religious","$48,400 ","$74,600 ",0%
+1481,Miles College,"Private School, Religious","$45,500 ","$74,500 ",17%
+1482,Virginia Union University,"Liberal Arts School, Private School, Religious","$50,600 ","$74,200 ",11%
+1483,Voorhees University,"Private School, Religious","$40,000 ","$73,500 ",14%
+1483,Pacific Oaks College,Private School,"$44,400 ","$73,500 ",0%
+1485,Lindsey Wilson College,"Private School, Religious","$44,100 ","$73,100 ",7%
+1486,"Springfield College-Regional, Online, and Continuing Education",Private School,"$45,400 ","$73,000 ",0%
+1487,Coker University,Private School,"$46,000 ","$72,600 ",8%
+1488,Toccoa Falls College,"Private School, Religious","$47,800 ","$71,900 ",3%
+1489,Wilson College,"Private School, Religious","$46,000 ","$71,600 ",3%
+1489,Edward Waters University,"Private School, Religious","$41,500 ","$71,600 ",17%
+1491,Southern University at New Orleans,State School,"$51,600 ","$71,500 ",11%
+1492,Rust College,"Private School, Religious","$43,400 ","$71,200 ",34%
+1493,Mississippi Valley State University,"For Sports Fans, State School","$39,900 ","$71,100 ",14%
+1494,Baptist Bible College,"Private School, Religious","$41,900 ","$70,000 ",0%
+1495,Stillman College,"Liberal Arts School, Private School, Religious","$48,300 ","$69,400 ",14%
+1496,Shaw University,"Private School, Religious","$45,300 ","$69,200 ",9%
+1497,Wiley College,"Private School, Religious","$45,500 ","$69,100 ",6%
+1498,Johnson University,"Private School, Religious","$42,400 ","$68,800 ",0%
+1499,Morris College,"Private School, Religious","$40,000 ","$68,600 ",1%
+1500,Texas College,"Private School, Religious","$42,700 ","$68,300 ",21%
+1501,Claflin University,"Liberal Arts School, Private School, Religious","$47,900 ","$68,000 ",22%
+1501,The Baptist College of Florida,"Private School, Religious","$41,900 ","$68,000 ",0%
+1503,Great Lakes Christian College,"Private School, Religious","$39,500 ","$65,200 ",0%
