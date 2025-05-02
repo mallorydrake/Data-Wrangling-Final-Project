@@ -6,6 +6,11 @@ In today’s competitive global job market, higher education institutions play a
 
 Through our analysis we hope to help prospective university students understand the reasons behind institutional rankings and how it will influence their financial compensation post-graduation. Not only will this information be helpful to students, but also to company hiring managers as they are looking through resumes and seeking out qualified individuals to hire. 
 
+## Links where we found our original data
+* **[Kaggle Dataset](https://www.kaggle.com/datasets/joebeachcapital/qs-world-university-rankings-2024/data):** The link to the Kaggle site we downloaded one of our original datasets from
+* **[Scraped Dataset](https://www.payscale.com/college-salary-report/bachelors):** The link to the website we scraped our second dataset from
+
+
 | Column  | Description |
 | ------ | ------ |
 | 2024 Rank | Overall rank of the university in 2024 |
