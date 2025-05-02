@@ -10,6 +10,7 @@ Through our analysis we hope to help prospective university students understand 
 * **[Kaggle Dataset](https://www.kaggle.com/datasets/joebeachcapital/qs-world-university-rankings-2024/data):** The link to the Kaggle site we downloaded one of our original datasets from
 * **[Scraped Dataset](https://www.payscale.com/college-salary-report/bachelors):** The link to the website we scraped our second dataset from
 
+## Partial Data Dictionary
 
 | Column  | Description |
 | ------ | ------ |
