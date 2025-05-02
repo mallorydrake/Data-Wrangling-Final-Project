@@ -11,9 +11,9 @@ Through our analysis we hope to help prospective university students understand 
 | 2024 Rank | Overall rank of the university in 2024 |
 | School Name | Name of the university |
 | Country | Country where the university is located  |
-| SIZE | [plugins/onedrive/README.md][PlOd] |
-| AGE | [plugins/medium/README.md][PlMe] |
-| Academic Reputation Score | [plugins/googleanalytics/README.md][PlGa] |
+| SIZE | Size of the university (S = Small, M = Medium, L = Large, XL = Extra Large) |
+| AGE | Age category of the university  |
+| Academic Reputation Score | Score for Academic Reputation |
  
 ## Folders
  
