@@ -20,6 +20,14 @@ Through our analysis we hope to help prospective university students understand 
 | SIZE | Size of the university (S = Small, M = Medium, L = Large, XL = Extra Large) |
 | AGE | Age category of the university  |
 | Academic Reputation Score | Score for Academic Reputation |
+| Employer Reputation Score | Score for Employer Reputation |
+| Faculty Student Score | Score for Faculty-Student Ratio |
+| Employment Outcomes Score | Score for Employment Outcomes |
+| Overall Score | Final score determining University ranking |
+| Postgrad Salary Rank | Rank for post-grad salary of alumni |
+| Early Career Pay | Median salary of alumnis with 0-5 years of experience |
+| Mid-Career Pay | Median salary of alumni with 10+ years of experience |
+| Percent of STEM Degrees | % degrees awarded in science, technology, engineering and/or mathematics |
  
 ## Folders
  
