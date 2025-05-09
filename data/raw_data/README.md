@@ -3,7 +3,7 @@ We began our analysis using 2 data sets attached in this folder and described be
  
 **2024 QS World University Rankings**
 
-The first data source we will use is the QS World University Rankings 2024 from Kaggle. It features 29 columns and 1,497 rows. This dataset we downloaded contains many features that support the rank each school received, including size of the institution, faculty scores, academic reputation scores, and employment outcome scores. 
+The first data source we will use is the QS World University Rankings 2024 from Kaggle. It features 29 columns and 1,497 rows. This dataset contains many features that support the rank each school received and includes size of the institution, faculty scores, academic reputation scores, and employment outcome scores. 
 
 **Scraped University Salary**
 
