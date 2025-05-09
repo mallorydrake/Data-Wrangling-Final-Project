@@ -41,5 +41,5 @@ Contains data used for the project
 * **[final data](data/final_data):** sub-folder containing the final, cleaned data for the project
  
 ### [results](results)
-Folder where the project results may be stored
+Folder where our final report and conclusions is stored
 
